@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News Dashboard</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-theme="light">
+
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title"><span class="accent">AI</span> News</h1>
+      <div class="search-wrap">
+        <input type="text" class="search-input" id="searchInput" placeholder="Search articles..." aria-label="Search articles">
+      </div>
+      <span class="last-updated" id="lastUpdated">Updated: --</span>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+        <span class="icon-moon">&#9790;</span>
+        <span class="icon-sun">&#9728;</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="stale-banner" id="staleBanner" style="display:none;">
+    Data may be stale — last update was more than 36 hours ago.
+  </div>
+
+  <nav class="nav-bar">
+    <div class="nav-inner">
+      <div class="primary-tabs" id="primaryTabs">
+        <button class="tab-btn active" data-tab="all">All</button>
+        <button class="tab-btn" data-tab="products">Products</button>
+        <button class="tab-btn" data-tab="topics">Topics</button>
+        <button class="tab-btn" data-tab="discovery">Discovery</button>
+        <button class="tab-btn" data-tab="saved">Saved</button>
+      </div>
+      <div class="filter-chips-row" id="productChips" style="display:none;"></div>
+      <div class="filter-chips-row" id="topicChips" style="display:none;"></div>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div class="toolbar" id="toolbar">
+      <select class="sort-select" id="sortSelect" aria-label="Sort articles">
+        <option value="discussed">Most discussed</option>
+        <option value="recent">Most recent</option>
+        <option value="authority">Source authority</option>
+      </select>
+      <label class="toggle-label">
+        <input type="checkbox" class="toggle-input" id="unreadToggle"> Unread only
+      </label>
+      <button class="btn-text" id="markAllRead">Mark all read</button>
+      <span class="article-count" id="articleCount"></span>
+    </div>
+
+    <div class="loading-state" id="loadingState">
+      <div class="loading-spinner"></div>
+      <p>Loading articles...</p>
+    </div>
+
+    <div class="empty-state" id="emptyState" style="display:none;">
+      <h3 id="emptyTitle">No articles found</h3>
+      <p id="emptyMessage">Try adjusting your filters or check back later.</p>
+      <button class="btn-clear-filters" id="clearFiltersBtn" style="display:none;">Clear all filters</button>
+    </div>
+
+    <div class="article-list" id="articleList"></div>
+
+    <div class="show-more-wrap" id="showMoreWrap" style="display:none;">
+      <button class="btn-show-more" id="showMoreBtn">Show more</button>
+    </div>
+
+    <section class="discovery-section" id="discoverySection" style="display:none;">
+      <div id="spotlightWrap"></div>
+      <button class="random-pick-btn" id="randomPickBtn">&#x1F3B2; Random pick</button>
+      <div class="discovery-grid" id="discoveryGrid"></div>
+    </section>
+
+    <div class="keyboard-hints">
+      <span><kbd>J</kbd>/<kbd>K</kbd> navigate</span>
+      <span><kbd>Enter</kbd> expand</span>
+      <span><kbd>R</kbd> read</span>
+      <span><kbd>S</kbd> save</span>
+      <span><kbd>Esc</kbd> close</span>
+    </div>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

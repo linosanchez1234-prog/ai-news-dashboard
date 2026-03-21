@@ -1,0 +1,158 @@
+# AI News Dashboard — Feed Configuration
+# Add new platforms by adding entries to the `platforms` section.
+# Add new feeds by adding entries to the `feeds` section.
+
+platforms:
+  - name: Claude
+    primary_keywords: ["Claude"]
+    context_keywords: ["Anthropic", "AI", "LLM", "model", "chatbot"]
+    source_domains: ["anthropic.com"]
+
+  - name: ChatGPT
+    primary_keywords: ["ChatGPT", "GPT-4", "GPT-5", "GPT-4o", "GPT-o1", "GPT-o3"]
+    context_keywords: ["OpenAI", "AI", "LLM", "model", "chatbot"]
+    source_domains: ["openai.com"]
+
+  - name: Gemini
+    primary_keywords: ["Gemini"]
+    context_keywords: ["Google", "AI", "DeepMind", "model", "multimodal"]
+    source_domains: ["deepmind.google", "blog.google"]
+
+  - name: Manus
+    primary_keywords: ["Manus"]
+    context_keywords: ["AI", "agent", "autonomous"]
+    source_domains: []
+
+  - name: Perplexity
+    primary_keywords: ["Perplexity"]
+    context_keywords: ["AI", "search", "model"]
+    source_domains: ["perplexity.ai"]
+
+  - name: OpenClaw
+    primary_keywords: ["OpenClaw"]
+    context_keywords: ["AI", "agent", "tool"]
+    source_domains: []
+
+topic_categories:
+  - name: Research
+    keywords: ["arxiv", "paper", "research", "study", "benchmark", "breakthrough"]
+    source_domains: ["arxiv.org"]
+
+  - name: Industry
+    keywords: ["funding", "acquisition", "regulation", "valuation", "IPO", "partnership"]
+    source_domains: []
+
+  - name: Open Source
+    keywords: ["open source", "open-source", "Llama", "Mistral", "Hugging Face", "weights", "fine-tune"]
+    source_domains: ["huggingface.co", "ai.meta.com"]
+
+feeds:
+  # Tier 1 — High Reliability
+  - name: "arXiv cs.AI"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    tier: 1
+    authority_weight: 35
+    is_research: true
+
+  - name: "arXiv cs.CL"
+    url: "https://rss.arxiv.org/rss/cs.CL"
+    tier: 1
+    authority_weight: 35
+    is_research: true
+
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    tier: 1
+    authority_weight: 30
+
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    tier: 1
+    authority_weight: 32
+
+  - name: "Hacker News AI"
+    url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude"
+    tier: 1
+    authority_weight: 28
+
+  # Tier 2 — Medium Reliability
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    tier: 2
+    authority_weight: 30
+
+  - name: "VentureBeat AI"
+    url: "https://venturebeat.com/category/ai/feed/"
+    tier: 2
+    authority_weight: 28
+
+  - name: "MIT Tech Review"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    tier: 2
+    authority_weight: 35
+
+  - name: "Wired AI"
+    url: "https://www.wired.com/feed/tag/ai/latest/rss"
+    tier: 2
+    authority_weight: 28
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    tier: 2
+    authority_weight: 38
+
+  - name: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    tier: 2
+    authority_weight: 38
+
+  - name: "Google DeepMind"
+    url: "https://deepmind.google/blog/rss.xml"
+    tier: 2
+    authority_weight: 38
+
+  - name: "The Rundown AI"
+    url: "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml"
+    tier: 2
+    authority_weight: 20
+    is_aggregator: true
+
+  - name: "Ben's Bites"
+    url: "https://bensbites.beehiiv.com/feed"
+    tier: 2
+    authority_weight: 22
+    is_aggregator: true
+
+  - name: "Simon Willison"
+    url: "https://simonwillison.net/atom/everything/"
+    tier: 2
+    authority_weight: 30
+
+  # Tier 3 — RSS-first with scraping fallback
+  - name: "Anthropic Blog"
+    url: "https://www.anthropic.com/news/rss"
+    tier: 3
+    authority_weight: 40
+    scraping_fallback: "https://www.anthropic.com/news"
+
+  - name: "OpenAI Blog"
+    url: "https://openai.com/news/rss.xml"
+    tier: 3
+    authority_weight: 40
+    scraping_fallback: "https://openai.com/news/"
+    scraping_optional: true
+
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    tier: 3
+    authority_weight: 38
+    scraping_fallback: "https://blog.google/technology/ai/"
+
+  # Conditional catch-all
+  - name: "Google News AI"
+    url: "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en"
+    tier: 99
+    authority_weight: 10
+    is_aggregator: true
+    backfill_only: true
+    min_articles_threshold: 10
