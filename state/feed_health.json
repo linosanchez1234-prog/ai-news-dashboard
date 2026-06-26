@@ -1,145 +1,138 @@
 {
   "Ars Technica": {
     "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-    "last_checked": "2026-06-25T16:24:36.243184+00:00",
+    "last_checked": "2026-06-26T16:16:55.758145+00:00",
     "status_code": 200,
     "etag": null,
-    "last_modified": "Thu, 25 Jun 2026 15:27:46 GMT",
+    "last_modified": "Fri, 26 Jun 2026 15:48:38 GMT",
     "result": "ok",
     "article_count": 20
   },
   "arXiv cs.CL": {
     "url": "https://rss.arxiv.org/rss/cs.CL",
-    "last_checked": "2026-06-25T16:24:36.242758+00:00",
+    "last_checked": "2026-06-26T16:16:55.757785+00:00",
     "status_code": 200,
-    "etag": "9451294bf0da4bc2e28e3bef526ddb70160155e592f011cf5678c566b8c0c1a4",
+    "etag": "519e82389e8e37ba157edb7c4790612de0d9ca842c5c9838495efcb6a469d158",
     "last_modified": null,
     "result": "ok",
-    "article_count": 136
+    "article_count": 146
   },
   "TechCrunch AI": {
     "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "last_checked": "2026-06-25T16:24:36.350097+00:00",
+    "last_checked": "2026-06-26T16:16:55.969571+00:00",
     "status_code": 200,
-    "etag": "W/\"98585104752bb2f986944159d9377746\"",
-    "last_modified": "Thu, 25 Jun 2026 16:18:09 GMT",
+    "etag": "W/\"00927d21950d6f09768f3eeecdc187a5\"",
+    "last_modified": "Fri, 26 Jun 2026 16:09:14 GMT",
     "result": "ok",
     "article_count": 20
   },
   "arXiv cs.AI": {
     "url": "https://rss.arxiv.org/rss/cs.AI",
-    "last_checked": "2026-06-25T16:24:36.242286+00:00",
+    "last_checked": "2026-06-26T16:16:55.757340+00:00",
     "status_code": 200,
-    "etag": "7317181cc999dd03fa94c297b4914b4a76b11cb1fd19bd1e86529b31cc456fda",
+    "etag": "4cb045a5cf75a5c5f530597e586338ef2f8bfd7e95adbf96158249444b06f51d",
     "last_modified": null,
     "result": "ok",
-    "article_count": 288
+    "article_count": 277
   },
   "The Verge AI": {
     "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    "last_checked": "2026-06-25T16:24:36.447795+00:00",
+    "last_checked": "2026-06-26T16:16:56.104319+00:00",
     "status_code": 200,
-    "etag": "W/\"9b5bc20f192df6975fa10bcd811dd7f8\"",
+    "etag": "W/\"f93e6df40399a9a7c1ce8493e4138759\"",
     "last_modified": null,
     "result": "ok",
     "article_count": 10
   },
   "MIT Tech Review": {
     "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    "last_checked": "2026-06-25T16:24:36.604056+00:00",
+    "last_checked": "2026-06-26T16:16:56.212968+00:00",
     "status_code": 200,
-    "etag": "W/\"c4f71c3a64b962ea5b69234e46956cbe\"",
-    "last_modified": "Thu, 25 Jun 2026 14:52:11 GMT",
+    "etag": "W/\"f6f58d6951f02902a028cde4af27d58e\"",
+    "last_modified": "Fri, 26 Jun 2026 11:18:37 GMT",
     "result": "ok",
     "article_count": 10
   },
-  "Hacker News AI": {
-    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude",
-    "last_checked": "2026-06-25T16:24:36.430432+00:00",
+  "Wired AI": {
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+    "last_checked": "2026-06-26T16:16:56.288520+00:00",
     "status_code": 200,
     "etag": null,
-    "last_modified": "Thu, 25 Jun 2026 16:10:55 GMT",
+    "last_modified": null,
     "result": "ok",
-    "article_count": 20
+    "article_count": 10
   },
   "VentureBeat AI": {
     "url": "https://venturebeat.com/category/ai/feed/",
-    "last_checked": "2026-06-25T16:24:36.586954+00:00",
+    "last_checked": "2026-06-26T16:16:56.186074+00:00",
     "status_code": 200,
     "etag": null,
     "last_modified": null,
     "result": "ok",
     "article_count": 7
   },
-  "Wired AI": {
-    "url": "https://www.wired.com/feed/tag/ai/latest/rss",
-    "last_checked": "2026-06-25T16:24:36.674318+00:00",
-    "status_code": 200,
-    "etag": null,
-    "last_modified": null,
-    "result": "ok",
-    "article_count": 10
-  },
   "Hugging Face Blog": {
     "url": "https://huggingface.co/blog/feed.xml",
-    "last_checked": "2026-06-25T16:24:36.707020+00:00",
+    "last_checked": "2026-06-26T16:16:56.365206+00:00",
     "status_code": 200,
-    "etag": "W/\"3a2b6-O2Rp+LhVy1xE0y3PxjjqbVdqHgg\"",
+    "etag": "W/\"3a3ba-nd2yGp58m+zjMlCqxcGM6GbJnxU\"",
     "last_modified": null,
     "result": "ok",
-    "article_count": 810
+    "article_count": 811
+  },
+  "Meta AI Blog": {
+    "url": "https://ai.meta.com/blog/rss/",
+    "last_checked": "2026-06-26T16:16:56.430900+00:00",
+    "status_code": 404,
+    "result": "http_error",
+    "error": "HTTP 404"
   },
   "Google DeepMind": {
     "url": "https://deepmind.google/blog/rss.xml",
-    "last_checked": "2026-06-25T16:24:36.870877+00:00",
+    "last_checked": "2026-06-26T16:16:56.684631+00:00",
     "status_code": 200,
-    "etag": "\"f1qOow\"",
+    "etag": "\"Hk_Q8A\"",
     "last_modified": "Tue, 16 Jun 2026 21:29:50 GMT",
     "result": "ok",
     "article_count": 100
   },
   "Ben's Bites": {
     "url": "https://bensbites.beehiiv.com/feed",
-    "last_checked": "2026-06-25T16:24:37.280153+00:00",
+    "last_checked": "2026-06-26T16:16:57.084993+00:00",
     "status_code": 404,
     "result": "http_error",
     "error": "HTTP 404"
   },
+  "Hacker News AI": {
+    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude",
+    "last_checked": "2026-06-26T16:16:55.972858+00:00",
+    "status_code": 200,
+    "etag": null,
+    "last_modified": "Fri, 26 Jun 2026 16:13:56 GMT",
+    "result": "ok",
+    "article_count": 20
+  },
   "The Rundown AI": {
     "url": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml",
-    "last_checked": "2026-06-25T16:24:36.998505+00:00",
+    "last_checked": "2026-06-26T16:16:56.875884+00:00",
     "status_code": 200,
-    "etag": "W/\"dace5ead6e6819a1e394d6ac4cc24131\"",
+    "etag": "W/\"0b02a9ce13230b46ad667f8aac0de0cc\"",
     "last_modified": null,
     "result": "ok",
     "article_count": 20
   },
-  "Meta AI Blog": {
-    "url": "https://ai.meta.com/blog/rss/",
-    "last_checked": "2026-06-25T16:24:36.797541+00:00",
-    "status_code": 404,
-    "result": "http_error",
-    "error": "HTTP 404"
-  },
   "Simon Willison": {
     "url": "https://simonwillison.net/atom/everything/",
-    "last_checked": "2026-06-25T16:24:37.460418+00:00",
+    "last_checked": "2026-06-26T16:16:57.287141+00:00",
     "status_code": 200,
     "etag": null,
-    "last_modified": "Wed, 24 Jun 2026 23:59:03 GMT",
+    "last_modified": "Thu, 25 Jun 2026 22:28:46 GMT",
     "result": "ok",
     "article_count": 30
   },
-  "Anthropic Blog": {
-    "url": "https://www.anthropic.com/news/rss",
-    "last_checked": "2026-06-25T16:24:37.519740+00:00",
-    "status_code": 404,
-    "result": "http_error",
-    "error": "HTTP 404"
-  },
   "Google AI Blog": {
     "url": "https://blog.google/technology/ai/rss/",
-    "last_checked": "2026-06-25T16:24:37.688490+00:00",
+    "last_checked": "2026-06-26T16:16:57.675866+00:00",
     "status_code": 200,
     "etag": null,
     "last_modified": null,
@@ -148,11 +141,18 @@
   },
   "OpenAI Blog": {
     "url": "https://openai.com/news/rss.xml",
-    "last_checked": "2026-06-25T16:24:37.521288+00:00",
+    "last_checked": "2026-06-26T16:16:57.571168+00:00",
     "status_code": 200,
     "etag": null,
     "last_modified": null,
     "result": "ok",
     "article_count": 1021
+  },
+  "Anthropic Blog": {
+    "url": "https://www.anthropic.com/news/rss",
+    "last_checked": "2026-06-26T16:16:57.366112+00:00",
+    "status_code": 404,
+    "result": "http_error",
+    "error": "HTTP 404"
   }
 }
