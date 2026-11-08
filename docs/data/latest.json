@@ -1,8 +1,456 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-11-07T18:29:12.981515+00:00",
-  "article_count": 1580,
+  "last_updated": "2026-11-08T18:40:50.640304+00:00",
+  "article_count": 1611,
   "articles": [
+    {
+      "id": "c08233254ab55692344230fc658e502255fd7f325c13813a761b5555b7a8d1fe",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "published": "2026-11-08T17:23:19+00:00",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 59.19,
+      "tier": "Trending"
+    },
+    {
+      "id": "e6539bb183fa5d7242fa4d0fe4d79152d2642365e60025e2e9c24097cd92fb9d",
+      "title": "Show HN: Is your product AI slop?",
+      "url": "https://slopcalculator.com/",
+      "published": "2026-11-08T18:32:31+00:00",
+      "summary": "Article URL: https://slopcalculator.com/ Comments URL: https://news.ycombinator.com/item?id=50415740 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.91,
+      "tier": "Trending"
+    },
+    {
+      "id": "fe5fdb83e1ea95f1b42419b0848c6704005c1a0d97bf5b622b17271058205ad1",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "published": "2026-11-08T18:16:07+00:00",
+      "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 5 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.74,
+      "tier": "Trending"
+    },
+    {
+      "id": "0dd230e7a4a37ea20ac98d716e3df9cf5d392a917abc014589a0208167185956",
+      "title": "Show HN: Claude Code status line, hooks and permissions builders (in-browser)",
+      "url": "https://orbtile.com/tools/claude-code-statusline-builder",
+      "published": "2026-11-08T17:47:39+00:00",
+      "summary": "Article URL: https://orbtile.com/tools/claude-code-statusline-builder Comments URL: https://news.ycombinator.com/item?id=50415399 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.45,
+      "tier": "Trending"
+    },
+    {
+      "id": "a220a73c52f09d93d30d755577d7e998fccb7ede03aed991feee02242db92e0b",
+      "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
+      "url": "https://www.valueaddedresource.net/etsy-expands-ai-training-rights/",
+      "published": "2026-11-08T17:31:42+00:00",
+      "summary": "Article URL: https://www.valueaddedresource.net/etsy-expands-ai-training-rights/ Comments URL: https://news.ycombinator.com/item?id=50415265 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.28,
+      "tier": "Trending"
+    },
+    {
+      "id": "9fa54bb6a11ff5eb6a60e1930930239890633baaa72ba1329a1935809e8e8889",
+      "title": "GPT-6 Luna and GPT-6.1 Sol are 90% off the listed price",
+      "url": "https://anyrouter.dev/blog/releases/2026-11-03-llamport",
+      "published": "2026-11-08T17:12:55+00:00",
+      "summary": "Article URL: https://anyrouter.dev/blog/releases/2026-11-03-llamport Comments URL: https://news.ycombinator.com/item?id=50415103 Points: 4 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.08,
+      "tier": "Trending"
+    },
+    {
+      "id": "1da438ad99e2baf1be6f9dd4dfeaaca9dfa740e0981681b753ed2be24539c6d0",
+      "title": "A guy running Claude KYC business to bypass anthropics restrictions",
+      "url": "https://twitter.com/_FORAB/status/2118978587265290558",
+      "published": "2026-11-08T16:43:51+00:00",
+      "summary": "Article URL: https://twitter.com/_FORAB/status/2118978587265290558 Comments URL: https://news.ycombinator.com/item?id=50414800 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "Discovery"
+      ],
+      "score": 56.78,
+      "tier": "Trending"
+    },
+    {
+      "id": "f92727a2e6d1c433e090217e1f23d8510f0c8c4b996ca111d317749e991b9df6",
+      "title": "China's AI models, led by Kimi, dominate open-source enterprise spending",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
+      "published": "2026-11-08T16:34:28+00:00",
+      "summary": "Article URL: https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending Comments URL: https://news.ycombinator.com/item?id=50414719 Points: 3 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 56.68,
+      "tier": "Trending"
+    },
+    {
+      "id": "14756b53d4f9996c08d13e93d46a7acbeefd25dacc9137d23e4e5bfe06155031",
+      "title": "One of Classical Music's Biggest Stars Says AI Is Degrading Our Taste",
+      "url": "https://www.bloomberg.com/features/2026-max-richter-weekend-interview/",
+      "published": "2026-11-08T16:32:55+00:00",
+      "summary": "Article URL: https://www.bloomberg.com/features/2026-max-richter-weekend-interview/ Comments URL: https://news.ycombinator.com/item?id=50414699 Points: 5 # Comments: 2",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.67,
+      "tier": "Trending"
+    },
+    {
+      "id": "6cff27d52abef9e08fa776db1e10db7e9041fe818aeb16853423fd589d702730",
+      "title": "Show HN: ModelRefs – Interactive reference hub for AI models",
+      "url": "https://modelrefs.com/",
+      "published": "2026-11-08T16:31:01+00:00",
+      "summary": "Article URL: https://modelrefs.com/ Comments URL: https://news.ycombinator.com/item?id=50414668 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.65,
+      "tier": "Trending"
+    },
+    {
+      "id": "7c547f1075c5ddf533cb0224a5f1af7ccd55f00d8bea4912ddc6c3a697a8f119",
+      "title": "The 0rwx framework for AI usage attribution",
+      "url": "http://0rwx.com",
+      "published": "2026-11-08T16:15:31+00:00",
+      "summary": "Article URL: http://0rwx.com Comments URL: https://news.ycombinator.com/item?id=50414502 Points: 2 # Comments: 1",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.49,
+      "tier": "Trending"
+    },
+    {
+      "id": "3e3e104b2ecaedcdf406c4171bcd99966e28b2ae57dcfbf8626abacdd260b136",
+      "title": "Show HN: Cinnamon AI – an agent you can share with your household",
+      "url": "https://getcinnamon.ai/",
+      "published": "2026-11-08T16:13:44+00:00",
+      "summary": "Article URL: https://getcinnamon.ai/ Comments URL: https://news.ycombinator.com/item?id=50414485 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.47,
+      "tier": "Trending"
+    },
+    {
+      "id": "65c1628d1ad2d400330c7db15182a2190a9daec11270f8f60917f8fb7f01b9f2",
+      "title": "Show HN: Jurex in House – Handles Legal Side of Your Business with AI",
+      "url": "https://inhouse.jurex.ai/login",
+      "published": "2026-11-08T15:29:57+00:00",
+      "summary": "Hi, Jurex-in-house is a Tool you & legal teams can use to handle the legal side of your business. Best in Class Drafting, research & complete contract to matter management in US, UK, India & singapore. Start Free Comments URL: https://news.ycombinator.com/item?id=50414095 Points: 1 # Comments: 1",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Research",
+        "Discovery"
+      ],
+      "score": 56.01,
+      "tier": "Trending"
+    },
+    {
+      "id": "1f9639d5e128f4b4e119e5ba8704a33854b9a27c5702be2efb51f9fca1035efe",
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "published": "2026-11-08T15:19:51+00:00",
+      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up Comments URL: https://news.ycombinator.com/item?id=50414021 Points: 29 # Comments: 52",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 55.91,
+      "tier": "Trending"
+    },
+    {
+      "id": "ad4d9bf888fcb213c6b30c94ca8814fffc9610ed906b86a63fd7b4f0def26423",
+      "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+      "url": "https://github.com/sshah03/recalc",
+      "published": "2026-11-08T15:12:07+00:00",
+      "summary": "I built this because it was useful for me when building evals/benchmarks, and I decided to put it up for free for others. The goal was quite simple, make it easy to use a lead claude code / codex session in a panel on the side, while allowing every cell to also be a terminal session running claude/codex, and make it possible to continue a session in an actual terminal window if I needed to. They can all talk to each other using cells on the grid, named cells, or the MCP server that effectively glues the app together. I also found it useful for managing context within related but disparate sessions. My real benchmark runs with recalc are internal to my startup, so to demonstrate some of the functionality I built a small FDA Bench with the tool (obtain and put together dossier's of FDA submissions, and see if a harnessed Claude could have accurately predicted pass/fail): https://github.com/sshah03/recalc#a-model-benchmark It is still very much a work in progress, but given the versatility of spreadsheet apps, wanted to see how others see themselves using it and what doesn't exist that would be useful to them. Currently runs locally on macs, linux as well but that's less tested, and Windows hasn't been tested at all so that'll come in the future. Comments URL: https://news.ycombinator.com/item?id=50413970 Points: 2 # Comments: 2",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "Research",
+        "Discovery"
+      ],
+      "score": 55.83,
+      "tier": "Trending"
+    },
+    {
+      "id": "b14c40ef9647605feb3fd72cd27a7664a074e90d25a2af809dac2d45edbd220c",
+      "title": "I made an open-web protocol for local LLM storage sharing",
+      "url": "https://joshuadd79.github.io/bring-your-own-brain/",
+      "published": "2026-11-08T14:38:57+00:00",
+      "summary": "Article URL: https://joshuadd79.github.io/bring-your-own-brain/ Comments URL: https://news.ycombinator.com/item?id=50413739 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.48,
+      "tier": "Trending"
+    },
+    {
+      "id": "cccfcd3069bb16f03cc347e6da907a15bef644bd5510adb02d400588dca0b8a0",
+      "title": "We review 4x more AI code without reading every line",
+      "url": "https://thenewstack.io/scale-ai-code-reviews/",
+      "published": "2026-11-08T14:27:00+00:00",
+      "summary": "Article URL: https://thenewstack.io/scale-ai-code-reviews/ Comments URL: https://news.ycombinator.com/item?id=50413647 Points: 3 # Comments: 2",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.36,
+      "tier": "Trending"
+    },
+    {
+      "id": "32ac942893ce66e105c4e0178507d65d57f7b4c43d1610ece4bdd01886e6604c",
+      "title": "AI stance is not binary",
+      "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+      "published": "2026-11-08T14:24:58+00:00",
+      "summary": "Article URL: https://carette.xyz/posts/ai-stance-is-not-binary/ Comments URL: https://news.ycombinator.com/item?id=50413632 Points: 8 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.33,
+      "tier": "Trending"
+    },
+    {
+      "id": "ea826d8cd16475e8734078156b53113f4e083c264d041607c26f3fc83c334571",
+      "title": "Mercedes Gives Its Cars an AI Upgrade",
+      "url": "https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2",
+      "published": "2026-11-08T14:22:57+00:00",
+      "summary": "Article URL: https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2 Comments URL: https://news.ycombinator.com/item?id=50413615 Points: 1 # Comments: 1",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.31,
+      "tier": "Trending"
+    },
+    {
+      "id": "2a88f6147afb44ca2b92b689dac2fefad5b00d437bb4a7fd6395c8776ab6883c",
+      "title": "The GPT Architecture, on a Napkin (2022)",
+      "url": "https://dugas.ch/artificial_curiosity/GPT_architecture.html",
+      "published": "2026-11-08T14:00:18+00:00",
+      "summary": "Article URL: https://dugas.ch/artificial_curiosity/GPT_architecture.html Comments URL: https://news.ycombinator.com/item?id=50413453 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.08,
+      "tier": "Trending"
+    },
+    {
+      "id": "8622a392988f0451f4e874313533c1d9874c6f3a852739f3533c6bbc6e7197a6",
+      "title": "Archimedes: AI agents that design physical things",
+      "url": "https://standardphysics.com/archimedes",
+      "published": "2026-11-08T13:59:08+00:00",
+      "summary": "Article URL: https://standardphysics.com/archimedes Comments URL: https://news.ycombinator.com/item?id=50413440 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.07,
+      "tier": "Trending"
+    },
+    {
+      "id": "9a720b3178d2f33796ad55815c816cb8d54b98f3decc683446680ca7691f0690",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "published": "2026-11-08T12:00:00+00:00",
+      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 53.82,
+      "tier": "Trending"
+    },
+    {
+      "id": "7a6ddd94fc2d29aa49a5a2e431289e8fcc83e5810605aef83f951cf69768e8c4",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "published": "2026-11-08T10:00:00+00:00",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 52.57,
+      "tier": "Trending"
+    },
+    {
+      "id": "51a247b5b6ae00e91ef525cd7c210cf98986939d31991a92827a0ca942dd4a79",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published": "2026-11-07T22:07:22+00:00",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 49.15,
+      "tier": "Trending"
+    },
+    {
+      "id": "3b069222ecbd3b59ba7f8c2ff943b91c72de351b72c023cee112d46552acd58c",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07T21:17:08+00:00",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 48.63,
+      "tier": "Trending"
+    },
+    {
+      "id": "5f8103aa8ad8e667fe99f57680bbcd698e10ae17c93ba178b06c39c55cdb3b54",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "published": "2026-11-07T23:57:46+00:00",
+      "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv>; rel=\"next\" This is bad. A tiny fraction of the visitors to one of those pages will click the \"next\" link, which means their browser is fetching unnecessary data and the Datasette server is having to render an entire page that then gets thrown away. I dug in and learned that Firefox has an issue that has been open for 24 years about this behavior... And one of the early comments on that issue links to my blog post from 2002 complaining about this feature. I hadn't just forgotten that I had written about it, I had forgotten the feature entirely! Tags: firefox , html , mozilla , datasette",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 48.3,
+      "tier": "Trending"
+    },
     {
       "id": "1ab28dde47a3074f5d545d3ab26962de3646ed099f84a0589ddd472240f8575e",
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -17,7 +465,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 58.34,
+      "score": 43.22,
       "tier": "Trending"
     },
     {
@@ -34,25 +482,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 58.28,
-      "tier": "Trending"
-    },
-    {
-      "id": "c037c1d442d57b42a407d6cd17e3e3419a43859f08672262fef6241a132c8a84",
-      "title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
-      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-      "published": "2026-11-07T18:23:18+00:00",
-      "summary": "Article URL: https://github.com/Miyamoto-Renya/LaplacesScissors Comments URL: https://news.ycombinator.com/item?id=50406735 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Open Source",
-        "Discovery"
-      ],
-      "score": 57.94,
+      "score": 43.16,
       "tier": "Trending"
     },
     {
@@ -69,237 +499,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 57.82,
-      "tier": "Trending"
-    },
-    {
-      "id": "415ef1f826d6012e415844a85735d933442d549a013e74b6f01e14fab6f64d4c",
-      "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
-      "url": "https://github.com/lhadzic377-netizen/TokiRecur",
-      "published": "2026-11-07T18:08:43+00:00",
-      "summary": "Article URL: https://github.com/lhadzic377-netizen/TokiRecur Comments URL: https://news.ycombinator.com/item?id=50406634 Points: 3 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Open Source",
-        "Discovery"
-      ],
-      "score": 57.79,
-      "tier": "Trending"
-    },
-    {
-      "id": "7d6a970ab1ba21607a9e93b8d387da963799c542bd38d598539da61ebe656548",
-      "title": "The End of AI Frontiers",
-      "url": "https://hunch.net/?p=13764006",
-      "published": "2026-11-07T18:04:07+00:00",
-      "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 6 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.74,
-      "tier": "Trending"
-    },
-    {
-      "id": "1355f88619fbf7eb94d50c386d67ea7235382fb482e837733a4df90940d6588c",
-      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
-      "url": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
-      "published": "2026-11-07T18:03:03+00:00",
-      "summary": "Article URL: https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms Comments URL: https://news.ycombinator.com/item?id=50406575 Points: 3 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research",
-        "Discovery"
-      ],
-      "score": 57.73,
-      "tier": "Trending"
-    },
-    {
-      "id": "f3f115801f55cbec81fc987163ce283ce4667b15b0968dc4b4f345ac1063ca04",
-      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
-      "published": "2026-11-07T18:02:17+00:00",
-      "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 10 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research",
-        "Discovery"
-      ],
-      "score": 57.72,
-      "tier": "Trending"
-    },
-    {
-      "id": "79b5cb6e9eec562a2954212bac36dceef65e1d282a17fd255745e997e6bb9275",
-      "title": "Show HN: OS Grokbot, can run on Claude/codex subs",
-      "url": "https://qorqbot.com",
-      "published": "2026-11-07T17:59:08+00:00",
-      "summary": "Made a provider-agnostic, entirely locally hostable GrokBot that wraps around your tmux-based terminals - which means, your claude/codex/etc. subscriptions can run inside of it. It is better at long-term tasks, business workflows, and operational work. We have not yet had a chance to run the benchmarks. Comments URL: https://news.ycombinator.com/item?id=50406534 Points: 1 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research",
-        "Discovery"
-      ],
-      "score": 57.69,
-      "tier": "Trending"
-    },
-    {
-      "id": "80862ee92fd8314963c056cc2ebf506af5a641659d4d59469bb82e16d87abaa5",
-      "title": "Infinix – Abandoned Local AI Agent Base Seeking Developers",
-      "url": "https://github.com/Moonyeep/Infinix",
-      "published": "2026-11-07T17:54:37+00:00",
-      "summary": "Article URL: https://github.com/Moonyeep/Infinix Comments URL: https://news.ycombinator.com/item?id=50406499 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.64,
-      "tier": "Trending"
-    },
-    {
-      "id": "328417bd6edd9c7ae1cb8de5033af7ebcde2c19e26102436082910882d086eba",
-      "title": "AI tools I use (avg software developer)",
-      "url": "https://fredrikmeyer.net/2026/11/07/how-i-use-ai-2026.html",
-      "published": "2026-11-07T17:53:47+00:00",
-      "summary": "Article URL: https://fredrikmeyer.net/2026/11/07/how-i-use-ai-2026.html Comments URL: https://news.ycombinator.com/item?id=50406494 Points: 2 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.63,
-      "tier": "Trending"
-    },
-    {
-      "id": "e4e3d2f99d869301829a3989eebc4ef38feafb79a28a6c544e886a08850ae30e",
-      "title": "Structify: AI apps built on a manufacturer's ERP data",
-      "url": "https://www.structify.ai",
-      "published": "2026-11-07T17:49:09+00:00",
-      "summary": "Article URL: https://www.structify.ai Comments URL: https://news.ycombinator.com/item?id=50406460 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.58,
-      "tier": "Trending"
-    },
-    {
-      "id": "7e8d16041eff35152302c80fd375ff454ed219e7e2431cc794212d9c59935acf",
-      "title": "Tell HN: Hanzo AI Is Spamming From GitHub Contributions",
-      "url": "https://news.ycombinator.com/item?id=50406105",
-      "published": "2026-11-07T17:06:04+00:00",
-      "summary": "Email received: Hey $name, Wanted to invite you to the Hanzo beta — we're looking for top open-source devs to help us shape the future of agentic AI. Join the beta: https://hanzo[.]app/beta I was checking out your open-source work on s3tools/s3cmd (especially what you've been building with Open-Source AI / ML) — really impressive engineering. We've been exploring autonomous decision systems and tool-use agents and would love your input. Let me know if you'd like to hop on a quick call, we're trying to speak with as many builders as we can: https://cal[.]com/antje-worring Warmly,\nAntje Worring\nCo-CEO, Hanzo AI GitHub: https://github[.]com/zooqueen LinkedIn: https://www.linkedin[.]com/in/antje-worring/ Hanzo AI, Inc. · 1 Ferry Building, Suite 201, San Francisco, CA 94111\nUnsubscribe: https://hanzo[.]app/unsubscribe\nReply 'stop' to opt out (I have not participated in the repo in question in over a decade) Comments URL: https://news.ycombinator.com/item?id=50406105 Points: 3 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Open Source",
-        "Discovery"
-      ],
-      "score": 57.13,
-      "tier": "Trending"
-    },
-    {
-      "id": "89e51c48f5da861625c8c00bbc174b876710f0b720e751d3c1e084f7dedd6507",
-      "title": "Show HN: Trendalyse – Explore Ideas with Google Trends and AI",
-      "url": "https://trendalyse.com/",
-      "published": "2026-11-07T16:54:58+00:00",
-      "summary": "Article URL: https://trendalyse.com/ Comments URL: https://news.ycombinator.com/item?id=50406012 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.02,
-      "tier": "Trending"
-    },
-    {
-      "id": "f08d787b179cdca605d3b0b3b14168d29772cdbffe97a86564bffcf900c290c0",
-      "title": "Show HN: AIVim – an open-source, Vim-inspired AI editor",
-      "url": "https://news.ycombinator.com/item?id=50405893",
-      "published": "2026-11-07T16:39:45+00:00",
-      "summary": "I thought it would be cool to have a modern, Vim-inspired editor with AI, so I built AIVim. Just revamped it. Try it in an isolated Python environment with Ollama or a hosted API. Fast token generation makes the interaction feel responsive. Comments URL: https://news.ycombinator.com/item?id=50405893 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Open Source",
-        "Discovery"
-      ],
-      "score": 56.86,
-      "tier": "Trending"
-    },
-    {
-      "id": "5f721228af3682c2417b4131d4680ee3211f1024fcf682ecae1568fe5c5140e2",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
-      "published": "2026-11-07T16:28:42+00:00",
-      "summary": "Article URL: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/ Comments URL: https://news.ycombinator.com/item?id=50405821 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "also_covered_by": [
-        "OpenAI Blog"
-      ],
-      "categories": [
-        "ChatGPT"
-      ],
-      "score": 56.74,
-      "tier": "Trending"
-    },
-    {
-      "id": "36fce04b839fe07d02310936f40f6a7e1860a970ba001a6ab21fcf4afa43422a",
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com/",
-      "published": "2026-11-07T16:14:29+00:00",
-      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50405734 Points: 7 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.6,
+      "score": 42.7,
       "tier": "Trending"
     },
     {
@@ -317,162 +517,7 @@
         "Research",
         "Discovery"
       ],
-      "score": 56.26,
-      "tier": "Trending"
-    },
-    {
-      "id": "7678cc98142810dfec2f63aa6133f181a793a2aa25c4c806fea12150ffa0e53b",
-      "title": "Using AI should be joyful",
-      "url": "https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful",
-      "published": "2026-11-07T15:37:42+00:00",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful Comments URL: https://news.ycombinator.com/item?id=50405439 Points: 2 # Comments: 2",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.21,
-      "tier": "Trending"
-    },
-    {
-      "id": "913cd197e9f52b0cd0e7b74e5881a242986260b6805c5b397c2eca587ae66de3",
-      "title": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
-      "url": "https://www.uber.com/us/en/blog/securing-ai-agents/",
-      "published": "2026-11-07T15:23:58+00:00",
-      "summary": "Article URL: https://www.uber.com/us/en/blog/securing-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50405330 Points: 2 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.07,
-      "tier": "Trending"
-    },
-    {
-      "id": "293aa5b9380791f5d787a4a9cbbb9e337c3f881cd94a4863eaff63d7510f2b33",
-      "title": "Show HN: Vondet – A planning board Claude keeps, so you don't have to",
-      "url": "https://vondet.com/en?ref=hn",
-      "published": "2026-11-07T15:06:46+00:00",
-      "summary": "Hi HN, Vondet is a planning board, but you don't write on it. \nClaude writes to Vondet via an MCP connection. As I worked on my product with Claude, my Markdown files gradually piled up. There were files like “beta plan”, “v1 plan”, and “development plan v0.5.” \nI asked Claude to tidy them up. It created a new file “next-milestone plan v0.1” Haha. I spent too much time trying to remember what I planned. So I built a tool to keep plans and decisions in one place. It's ready for Claude to refer to in future sessions. Claude can use the board to:\n- Read: Tasks, decision logs, topics\n- Plan: Capture, update, and order tasks\n- Record: Decisions Vondet works through your conversation with Claude via MCP. I would appreciate it if you could try it in your own Claude. How to try it:\n1. Sign up at Vondet(Magic link, Github, and Google login are supported).\n2. Connect MCP to your Claude.\n3. Try asking Claude to record a development plan on the board. How do you all manage your development plans and tasks?\nI would appreciate any feedback, and interest. Comments URL: https://news.ycombinator.com/item?id=50405170 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 55.89,
-      "tier": "Trending"
-    },
-    {
-      "id": "6b3826262e4e6d4b88a5050fe06ffe667ddd64bf039e07487b2b4ce83a0cd053",
-      "title": "Honeycomb Team Agents: AI SRE Done Right",
-      "url": "https://www.honeycomb.io/blog/honeycomb-team-agents-ai-sre-done-right",
-      "published": "2026-11-07T14:59:40+00:00",
-      "summary": "Article URL: https://www.honeycomb.io/blog/honeycomb-team-agents-ai-sre-done-right Comments URL: https://news.ycombinator.com/item?id=50405124 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 55.82,
-      "tier": "Trending"
-    },
-    {
-      "id": "c2d55720064636a2c913b83ae922622bd2d35d354ae18775abfe6701d4518996",
-      "title": "Google AI's Opinions on How Ansible Has Changed",
-      "url": "https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible",
-      "published": "2026-11-07T14:52:24+00:00",
-      "summary": "Article URL: https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible Comments URL: https://news.ycombinator.com/item?id=50405050 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Open Source",
-        "Discovery"
-      ],
-      "score": 55.74,
-      "tier": "Trending"
-    },
-    {
-      "id": "23a02e5d69b57016a6f4e36ac071881bc4d2dfde219b6171e4030ac3f41e96af",
-      "title": "AI agents are getting more complex. Developers shouldn't have to babysit them",
-      "url": "https://thenewstack.io/harness-engineering-coding-agents/",
-      "published": "2026-11-07T14:39:40+00:00",
-      "summary": "Article URL: https://thenewstack.io/harness-engineering-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=50404938 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 55.61,
-      "tier": "Trending"
-    },
-    {
-      "id": "fe4fdd184fa7a3ca1f926fdd93db489d0ba2931e80bf7ba70b7215f9455224bc",
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "published": "2026-11-07T11:00:00+00:00",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 53.32,
-      "tier": "Trending"
-    },
-    {
-      "id": "2af345503cb4dc3ab8a997699fe126ba7919956b66e0db4d1ab4f3e60ce50c68",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "published": "2026-11-07T01:40:28+00:00",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 51.49,
-      "tier": "Trending"
-    },
-    {
-      "id": "d9d8ed120c50cfe24ebb0909a0e63bc507f9b40a7b475d916048f4c59bdac028",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "published": "2026-11-06T22:53:46+00:00",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Industry",
-        "Discovery"
-      ],
-      "score": 49.76,
+      "score": 41.14,
       "tier": "Trending"
     },
     {
@@ -489,316 +534,25 @@
       "categories": [
         "ChatGPT"
       ],
-      "score": 48.45,
+      "score": 40.0,
       "tier": "Trending"
     },
     {
-      "id": "6c7191a9daddd03288372f925192c0d1745c284e5e8be0951c9fe1eb96c0c061",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "published": "2026-11-06T23:46:18+00:00",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Industry",
-        "Discovery"
-      ],
-      "score": 48.3,
-      "tier": "Trending"
-    },
-    {
-      "id": "a7e1415152c9585b8d71bca94ace373b8093ed1a4e0f4d0e2869094ca3b8d166",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "published": "2026-11-06T23:00:44+00:00",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 47.83,
-      "tier": "Trending"
-    },
-    {
-      "id": "0b47ae94b8dc6c928b086e6fe2b747aed794ff71d974bca08a1746140c0acf54",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "published": "2026-11-06T18:44:38+00:00",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research",
-        "Discovery"
-      ],
-      "score": 47.16,
-      "tier": "Trending"
-    },
-    {
-      "id": "a8fc5de6487f58f91f0ae051f179faed5006c431b6fb6911daf336eab7c987ba",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "published": "2026-11-06T18:44:20+00:00",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 47.16,
-      "tier": "Trending"
-    },
-    {
-      "id": "94d3f146301ece8ef6091fe3c45e29ce4bdd7150668db774979ca5f0ba9b6d7b",
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "published": "2026-11-06T18:00:00+00:00",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 46.7,
-      "tier": "Trending"
-    },
-    {
-      "id": "7142f0ef7fb76f39c0d4f06c2ac75da2607d067e450ec8c4806a2cb87f087aff",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "published": "2026-11-06T20:56:41+00:00",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "source": "Ars Technica",
-      "source_tier": 1,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 46.54,
-      "tier": "Trending"
-    },
-    {
-      "id": "2563b3e6ff404ee380cc3cd4cfe9007cb00d5ba3e6c10bcb063ad585be2b6694",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "published": "2026-11-06T17:23:52+00:00",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 46.32,
-      "tier": "Trending"
-    },
-    {
-      "id": "f8fe21ba7f368ed10ce0a3c0e1659178f895d9eae8a89112274a09de130c90c2",
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "published": "2026-11-06T20:02:22+00:00",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 45.97,
-      "tier": "Trending"
-    },
-    {
-      "id": "97dac9d9308d381a4657e295f5056a4a8878d18e02584b0f6a59ced0b53f5c38",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "published": "2026-11-06T15:54:47+00:00",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Industry",
-        "Discovery"
-      ],
-      "score": 45.39,
-      "tier": "Trending"
-    },
-    {
-      "id": "9aeac73058ac351bd96e355b9d04dcddad8f3c3f57fb9ac4a2bbd5ed296f8f63",
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "published": "2026-11-06T18:10:10+00:00",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 44.8,
-      "tier": "Trending"
-    },
-    {
-      "id": "63e1c5c982d992554201f922b1c9a6268fdddbc81115346d8aeffd17f6016277",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "published": "2026-11-06T14:10:00+00:00",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 44.3,
-      "tier": "Trending"
-    },
-    {
-      "id": "84e924c4ab2b73c17e2de193bf0642daa04464e28ba17c90c18d2f60ac7771ae",
-      "title": "AI is the new dating dealbreaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "published": "2026-11-06T17:00:00+00:00",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 44.07,
-      "tier": "Trending"
-    },
-    {
-      "id": "f659f2b84ee7c4315b2e2b9f0ae1c90e7708c2d3ec8a265f2e25ca86051cc358",
-      "title": "Big Tech lost big in the 2026 election",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "published": "2026-11-06T16:38:02+00:00",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 43.84,
-      "tier": "Trending"
-    },
-    {
-      "id": "a128386b25427955b1c07e8d5b89d53ed68f88dd2e47ddd2b4ffe5e271a6bd18",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "published": "2026-11-06T13:02:16+00:00",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 43.59,
-      "tier": "Trending"
-    },
-    {
-      "id": "9a6eee5802a8318dc1902f9d508dad9cb515d7ff5a9446484796d42d861d02d8",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "published": "2026-11-06T13:00:00+00:00",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 43.57,
-      "tier": "Trending"
-    },
-    {
-      "id": "224c3d5c5f30d73d95d2e6790c1a0176175404f6bbfa1c6563944f8ef308ebdd",
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "published": "2026-11-06T18:43:43+00:00",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 43.15,
-      "tier": "Trending"
-    },
-    {
-      "id": "ab976e70bde961f741774f19f54967f5987dd08fab8edcfad78f58722976d1d4",
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "published": "2026-11-06T16:00:00+00:00",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 41.45,
-      "tier": "Trending"
-    },
-    {
-      "id": "bbd492caba72ca544b8bac3280d7afac87555fa4b30c0b12388bcfae24236fa4",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "published": "2026-11-05T20:00:00+00:00",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "id": "5f721228af3682c2417b4131d4680ee3211f1024fcf682ecae1568fe5c5140e2",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "source": "OpenAI Blog",
       "source_tier": 3,
       "authority_weight": 40,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
-        "ChatGPT"
+        "ChatGPT",
+        "Research"
       ],
-      "score": 40.95,
+      "score": 40.0,
       "tier": "Trending"
     },
     {
@@ -807,6 +561,23 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "published": "2026-11-05T17:00:00+00:00",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "source": "OpenAI Blog",
+      "source_tier": 3,
+      "authority_weight": 40,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT"
+      ],
+      "score": 40.0,
+      "tier": "Trending"
+    },
+    {
+      "id": "bbd492caba72ca544b8bac3280d7afac87555fa4b30c0b12388bcfae24236fa4",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published": "2026-11-05T20:00:00+00:00",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
       "source": "OpenAI Blog",
       "source_tier": 3,
       "authority_weight": 40,
@@ -2751,7 +2522,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "347b65ce144a221e189c1995b6f8e902fff172db7617e6d8030d51c8740ce826",
@@ -2768,7 +2539,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "4e56c7312349a760a0edf744bd151f1352583693dfaa6156b9b09ca8e15ad634",
@@ -2785,7 +2556,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "52b80abd4e046c041ffbe2a48399ded2b227e51686189386944c8dd9b0045fd6",
@@ -2802,7 +2573,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "3d7b9aab56c8f4fe22c00cc0057db0cb0a00b0a30d0d99d476abe36917bfac64",
@@ -2820,7 +2591,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "bb71e409dd7f29f762c233b6b0e3a367ed44a43dd4b05ce6408a8edddeb7b53b",
@@ -2837,7 +2608,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "0765deb144589280c16b6c389f4ff0fb7d519b5edcb7c4cad6d5247ca7a27572",
@@ -2854,7 +2625,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "5ab590850491008e2cefeb696721869fa1b9dd449fc9a908867a23da166dfb52",
@@ -2871,7 +2642,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "f9027d80e820682e90d7e8a7deab6fe99d243c44073836087c19a4dccdea5fb4",
@@ -2888,7 +2659,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "73461b3e97af0d93277a11c940eddd760e1483f50dc51139e0bbfefde7d9b54f",
@@ -2905,7 +2676,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "3fcefd9c665fb2c2484965cf43548bc94be5c40db4dc345287024e6c77f2703e",
@@ -2923,7 +2694,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "60efaf744a4d6c2c20e9e8f1dc0a4ae280a89a1d1a7f55c198827b62cda36b8e",
@@ -2940,7 +2711,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "8fe4474fdbb9c4c46a22f878515427114b676069cfc965f6786182578d7743d9",
@@ -2957,7 +2728,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "08ffdb24bebd9aa2ffda2f849b7e7af9dba92daa36ecb3bc96d64f49fd7ead95",
@@ -2974,7 +2745,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "10538c022345675d1abd4a83236ec639afd16c383bf12f43a3ea4520388033d1",
@@ -2992,7 +2763,7 @@
         "Industry"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "2f8d9b98fc157bb338d3eee240b684935f4eb48a8a141e592a8d2b7cadec3422",
@@ -3009,7 +2780,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "d2871d486c61275aa18316221b2aa4fe0c0c7a730e7f24a395d9c1672c5c3fc3",
@@ -8201,7 +7972,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "4c04529d4e0b4d640b1fa712d8a68266474e1fedabc16d24f6ffa05eb688824f",
@@ -8218,7 +7989,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "95384e9055c3b715bb5cf50e344dc32dff4803d52135f258f7d1c406a11eda3d",
@@ -8235,7 +8006,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "7bcd68b5d5cb7fb5256e9f26ec555c87e04efe5ddc828bfefc0945e15cc9895c",
@@ -8252,7 +8023,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "487938567ca08f298d45379cbab3d84cb5a305b152ec95dddebb74ce0e7efb17",
@@ -8269,7 +8040,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "047e7bac94f5b9df19e53e8b294f282da30094b77a1cae6e387998093e7ed7ef",
@@ -8287,7 +8058,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "86685a01860027dee20e60a45cb25bcdeb9ca725ffe4daa8835ba6c6e332ff59",
@@ -8304,7 +8075,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "22c2ff8bad8cfd85b49cffce90ee95128b4cc5c8b213a831da43e944b35eb804",
@@ -8321,7 +8092,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "a0904673d8e83392bf0846c7674476b4059adb3f083f128528f7aa1ff1dea03f",
@@ -8338,7 +8109,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "9f84e2e45d87466b2176e26eb5b1c8da427dade95332a2ad6aa2629a40d7b53a",
@@ -8356,7 +8127,7 @@
         "Industry"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "c720bf728da92d557f52c1ea3eda400088a7dd4cf256e848a7a898972cbeec48",
@@ -8373,7 +8144,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "16594c97bd60c5236263a15628982d6409f537cffd15ae96138b801e98b379f8",
@@ -8390,7 +8161,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "263c2043f1c3113e3ab2b204765bddc1da423d44d0daf75aa22eb2b65535f86b",
@@ -8407,7 +8178,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "fb38dfafd80a435f42a8e1b192005db1585b1e3172fe3e649b92463f8b276bfa",
@@ -8424,7 +8195,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "d75d7d2ee74818d4f55705e575e64e1b77fcc54e45f438e9a480dc7577c40a88",
@@ -8441,7 +8212,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "f7bebe3fb5356cb2f0d66690f6c42d2a817e3b442427fd01af5ae4a681f07955",
@@ -8458,7 +8229,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "d58daa6d846a2b00998ffb43a437c3187b57d069f9f65f49360701dd1fb27093",
@@ -8475,7 +8246,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "85771c0fe867964da36e52080cd3f3b738e6a4146fd1c07384e5260404a36f6a",
@@ -8492,7 +8263,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "b4b340379768876cac657c75b773dd9a27a49f497a1d1293aa3ff6a198b7b4c7",
@@ -8510,7 +8281,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "387cb8d894c7424e8166427b1fae0b66903acd91cddc90de7ccec5ed0a8d1c85",
@@ -8527,7 +8298,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "8afdb503cc5635992639a26513506f28523b4a0b75bbd01a7786187c3b0eba2d",
@@ -8544,7 +8315,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "4e32c322a73701baea229c2273796fb42a9507f8b32dccd1d4ca8214d3a6fcf9",
@@ -8561,7 +8332,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "1ba2801c79e44bbc5741d73eeb940f41370631237f7f7a1539388f002ecc9948",
@@ -24266,20 +24037,20 @@
       "tier": "Standard"
     },
     {
-      "id": "a83a56374fd6aa91bfb5c5e279fa15b1331653c38bb895589dd8bcff0d7ab1f8",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "published": "2026-11-06T06:28:32+00:00",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
+      "id": "fe4fdd184fa7a3ca1f926fdd93db489d0ba2931e80bf7ba70b7215f9455224bc",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "published": "2026-11-07T11:00:00+00:00",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 39.49,
+      "score": 38.2,
       "tier": "Standard"
     },
     {
@@ -26324,6 +26095,231 @@
       "tier": "Standard"
     },
     {
+      "id": "2af345503cb4dc3ab8a997699fe126ba7919956b66e0db4d1ab4f3e60ce50c68",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "published": "2026-11-07T01:40:28+00:00",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 36.37,
+      "tier": "Standard"
+    },
+    {
+      "id": "d9d8ed120c50cfe24ebb0909a0e63bc507f9b40a7b475d916048f4c59bdac028",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "2026-11-06T22:53:46+00:00",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Industry",
+        "Discovery"
+      ],
+      "score": 34.63,
+      "tier": "Standard"
+    },
+    {
+      "id": "6c7191a9daddd03288372f925192c0d1745c284e5e8be0951c9fe1eb96c0c061",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "published": "2026-11-06T23:46:18+00:00",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Industry",
+        "Discovery"
+      ],
+      "score": 33.18,
+      "tier": "Standard"
+    },
+    {
+      "id": "a7e1415152c9585b8d71bca94ace373b8093ed1a4e0f4d0e2869094ca3b8d166",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "published": "2026-11-06T23:00:44+00:00",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.71,
+      "tier": "Standard"
+    },
+    {
+      "id": "0b47ae94b8dc6c928b086e6fe2b747aed794ff71d974bca08a1746140c0acf54",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "2026-11-06T18:44:38+00:00",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Research",
+        "Discovery"
+      ],
+      "score": 32.04,
+      "tier": "Standard"
+    },
+    {
+      "id": "a8fc5de6487f58f91f0ae051f179faed5006c431b6fb6911daf336eab7c987ba",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "published": "2026-11-06T18:44:20+00:00",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.04,
+      "tier": "Standard"
+    },
+    {
+      "id": "94d3f146301ece8ef6091fe3c45e29ce4bdd7150668db774979ca5f0ba9b6d7b",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "published": "2026-11-06T18:00:00+00:00",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "2563b3e6ff404ee380cc3cd4cfe9007cb00d5ba3e6c10bcb063ad585be2b6694",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "published": "2026-11-06T17:23:52+00:00",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "97dac9d9308d381a4657e295f5056a4a8878d18e02584b0f6a59ced0b53f5c38",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "published": "2026-11-06T15:54:47+00:00",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Industry",
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "63e1c5c982d992554201f922b1c9a6268fdddbc81115346d8aeffd17f6016277",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "published": "2026-11-06T14:10:00+00:00",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "a128386b25427955b1c07e8d5b89d53ed68f88dd2e47ddd2b4ffe5e271a6bd18",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "published": "2026-11-06T13:02:16+00:00",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "9a6eee5802a8318dc1902f9d508dad9cb515d7ff5a9446484796d42d861d02d8",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "published": "2026-11-06T13:00:00+00:00",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "a83a56374fd6aa91bfb5c5e279fa15b1331653c38bb895589dd8bcff0d7ab1f8",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "published": "2026-11-06T06:28:32+00:00",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
       "id": "1121cf54e69f72cb6b4feafaf5da64e11a3b80cbc1c6ea9f2056184535a797c5",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
@@ -26337,24 +26333,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 34.62,
-      "tier": "Standard"
-    },
-    {
-      "id": "975fa8e739b5760d69bc26b97d2f904799fbd421b4b6fe4b23264e9dd93457b2",
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "published": "2026-11-05T23:09:36+00:00",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "source": "Ars Technica",
-      "source_tier": 1,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 32.92,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26371,7 +26350,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 32.83,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26388,7 +26367,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 32.45,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26405,7 +26384,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 32.39,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26461,54 +26440,54 @@
       "tier": "Standard"
     },
     {
-      "id": "74bb7f13b00f34a52103b65eef11dd4c10c5b14d61f97cf24c3f33b31c421a6d",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "published": "2026-11-05T15:19:05+00:00",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "source": "TechCrunch AI",
+      "id": "7142f0ef7fb76f39c0d4f06c2ac75da2607d067e450ec8c4806a2cb87f087aff",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "published": "2026-11-06T20:56:41+00:00",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "source": "Ars Technica",
       "source_tier": 1,
-      "authority_weight": 32,
+      "authority_weight": 30,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 32.0,
+      "score": 31.41,
       "tier": "Standard"
     },
     {
-      "id": "ec1966491ff28b1901b22e615ed36206cd06b807dccd8189dab50504e8adc588",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "published": "2026-11-05T14:42:00+00:00",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 32.0,
-      "tier": "Standard"
-    },
-    {
-      "id": "10a068d174c6f253199969fdd088d3faedc7e22bcb9a6c74389b484c9f72961f",
-      "title": "An inside look at Anthropic’s AI speedup",
-      "url": "https://therundownai.beehiiv.com/p/an-inside-look-at-anthropic-s-ai-speedup",
-      "published": "2026-11-06T11:00:00+00:00",
-      "summary": "PLUS: Use AI to find a job and prepare to get hired",
-      "source": "The Rundown AI",
+      "id": "f8fe21ba7f368ed10ce0a3c0e1659178f895d9eae8a89112274a09de130c90c2",
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "published": "2026-11-06T20:02:22+00:00",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+      "source": "The Verge AI",
       "source_tier": 2,
-      "authority_weight": 20,
+      "authority_weight": 30,
       "is_research": false,
-      "is_aggregator": true,
+      "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 30.32,
+      "score": 30.85,
+      "tier": "Standard"
+    },
+    {
+      "id": "975fa8e739b5760d69bc26b97d2f904799fbd421b4b6fe4b23264e9dd93457b2",
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "published": "2026-11-05T23:09:36+00:00",
+      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "source": "Ars Technica",
+      "source_tier": 1,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
       "tier": "Standard"
     },
     {
@@ -26820,6 +26799,588 @@
       "tier": "Standard"
     },
     {
+      "id": "9aeac73058ac351bd96e355b9d04dcddad8f3c3f57fb9ac4a2bbd5ed296f8f63",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "published": "2026-11-06T18:10:10+00:00",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "84e924c4ab2b73c17e2de193bf0642daa04464e28ba17c90c18d2f60ac7771ae",
+      "title": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "published": "2026-11-06T17:00:00+00:00",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "b7aa5d4fa5c79c451bb76b18d3c56b248d76bc42c813cba5f06d2f47e4fc5485",
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "published": "2026-11-06T17:13:12+00:00",
+      "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in Europe are being hacked. The costs are too high. The benefits are not real. And if you connect that to corruption, you're like, in order to impose these costs on me, these CEOs are in the White House shaking Trump's hand, renaming it to the Gulf of America, paying for this ballroom that we don't want. It's obvious crypto-corruption, and it's still slop. The AI industry will not get out of it until they make better products . Until everyone can see without needing to be convinced, without needing an ad campaign, without any of this stuff that just using these products makes your life better. — Nilay Patel , The Vergecast: Big Tech lost big in the 2026 election Tags: nilay-patel , slop , ai , generative-ai , ai-ethics",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "f88e63ee2c8108afc7abdb72317f33fbb67f5e8c3c6fd6d65f66038f1dd12164",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+      "published": "2026-11-05T17:34:03+00:00",
+      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "cd09dc87fba0a54b67f70446fb2831bda94d064f818f3bb5aae6ebab46fec608",
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "published": "2026-11-04T15:26:02+00:00",
+      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "b3ab12a34ee36e8ab3ff3e5d1e5797bffaaf413a760e4b957767fb1ce50f6439",
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "published": "2026-11-04T00:29:36+00:00",
+      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view. New app_add_stored_queries() and app_remove_stored_queries() tools let the agent manage which stored queries an app is allowed to call. Granting a write query requires approval from the user first. app_create() now checks that each requested stored query exists and that the user can view it, and asks the user to approve any write queries before the app is created. The \"View app\" buttons shown by the agent tools, and the links on # app references, now open the app full screen in the Datasette Agent panel. Tags: datasette , datasette-agent , datasette-apps",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "b0671b3fa0f50f9188d57435675835b63ad78d889fa9b7083b88da89a2a55fe9",
+      "title": "datasette-agent 0.5a0",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "published": "2026-11-03T23:13:45+00:00",
+      "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You can try it by signing in with your GitHub account to agent.datasette.io . Tags: projects , datasette , datasette-agent",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "0eec722f11509f676ce1b740345d2cd670d2e74431244b4b112f45f6177b109c",
+      "title": "llm 0.37.1",
+      "url": "https://simonwillison.net/2026/Nov/3/llm/",
+      "published": "2026-11-03T21:41:42+00:00",
+      "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "b5cba0d011349b3bc50111809ab484ae3a7ae1efda7d7776ece58fac266468bd",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "published": "2026-11-03T16:29:48+00:00",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my laptop can do this as well! Weight-Space Programming Here's the highlight from their abstract, describing impressive capabilities for GPT-6 Astra and coining the term Weight-Space Programming for when LLMs analyze and modify model weights: Just by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do . And without any environment feedback, it has no trouble writing, from scratch, small game-playing networks that outplay networks trained with PPO for 100 million steps. Likewise, asked to make Qwen3.5-0.8B better at math without gradients, Astra identifies an issue in its weights causing reasoning loops that Qwen’s own model card warns about, and fixes this by natively editing 0.016% of the weights . With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following, raising IFEval by 3x. All of this is possible without allowing Astra to write training loops. It uses its reasoning to figure out what each part of a neural network computes, or should compute, and changes the weights accordingly. We call this Weight-Space Programming . The paper combines two topics that I think deserve to be treated separately. The first is what models can do with raw weights without running tools or executing code. The second explores how well models, once armed with code, can run operations to update and improve other models. spaCy author Matthew Honnibal called the paper misleading for conflating the two, and Sean Goedecke deconstructed the Qwen3.5-0.8B update example as taking the same steps that a human ML researcher would use. I'm going to focus on the no-tools question, which I think is the more interesting of the two. The paper presents the first question as Can LLMs understand model behaviors from weights? They trained four neural networks to play simplified 10x10 grid versions of four classic computer games - Breakout, Pong, Pac-Man, and Freeway (I had to look that one up , it's an Atari 2600 game from 1981). Then they fed those weights (as floating point numbers) to an LLM along with the following question: The weights below belong to one policy network that was trained with reinforcement learning to play a game on this grid. Which game was it trained on? Work from the weights. You have no tools: no code execution, no calculator, nothing to run. This is a single response. The GitHub repository that accompanies the paper is RikiyaT/lm_understand-logs . The exp1_which_game folder contains the prompts they used, with weights for the four games: breakout/prompt.txt freeway/prompt.txt pacman/prompt.txt pong/prompt.txt I checked and, aside from the weights, each prompt is identical to the others. Trying it out with Qwen 3.8 27B and other models The prompts on GitHub are self-contained. My LLM tool has a -f/--fragment option which can be passed the URL to a text file to use as a prompt, which means I can run any of the above like this: llm -f https://raw.githubusercontent.com/RikiyaT/lm_understand-logs/refs/heads/main/exp1_which_game/runs/breakout/prompt.txt \\\n  -m openrouter/moonshotai/kimi-k3.1-pro This example requires the llm-openrouter plugin installed, and runs the Breakout prompt against Kimi K3.1 Pro via OpenRouter. Here's what I got back from Kimi K3.1 Pro , which successfully guessed Breakout after 9m 41s and 19,493 reasoning tokens. But how about Qwen 3.8 27B ? That's still my favorite model to run on my own laptop - it's just 17GB (I use this version ) and somehow feels close to the leading proprietary models of 2025. I fired up LM Studio , ensured Qwen 3.8 27B was loaded with a long context window (the default 8192 context failed with errors), installed the llm-lmstudio plugin and ran this command: LMSTUDIO_TIMEOUT=900 \\\n  llm -f https://raw.githubusercontent.com/RikiyaT/lm_understand-logs/refs/heads/main/exp1_which_game/runs/pacman/prompt.txt \\\n  -m lmstudio/qwen/qwen3.8-27b (I had to bump the timeout up using an environment variable, see this issue .) After 46m 12s and 43,506 reasoning tokens, Qwen on my laptop returned a response that ended like this (here's the reasoning trace ): Game: A simplified Pac-Man-style gridworld: an agent moves through a fixed 8x8 maze with central and corner wall blocks, moving objects/ghosts, and reward targets/pellets. Description: The agent navigates a fixed maze-like 8x8 board, using current agent/moving-object/previous-frame cues to move through corridors, collect reward-target cells, and avoid moving objects or hazards. Confidence: 72% This is impressive. I tried it on two of the other games as well. It identified Pong ( reasoning ) in 1h 4m 54s: Pong — specifically a Pong-like paddle/ball game where the agent controls a vertical paddle on the right side and must move up/down to intercept or return a moving ball/reward object. Description: The agent moves a right-side paddle vertically to hit or catch a moving ball-like reward target moving across the 8×8 field, while a left-side moving object/opponent and wall borders define the play; reward is obtained by successfully intercepting/returning/scoring the ball, and missing or failing to hit it is penalized. Confidence: 75% And Breakout ( reasoning ) in 52m 25s: Game: Breakout, or an Arkanoid-like paddle/ball/brick game. Description: The agent is a paddle on the bottom row and moves left/right to keep a ball in play; the ball moves around the upper grid, and bricks/reward targets in the top rows give reward when hit, while missing the ball/hitting the bottom wall ends the episode or gives penalty. Confidence: 88% Qwen failed at the Freeway prompt, which didn't surprise me considering that game is more obscure than the other three. Here's that transcript - Qwen thought it was \"A simplified Pac-Man-like grid game: agent moves 4-directionally\". The reasoning traces are fun to skim, and almost incomprehensible. Here's a sample: What about agent channel0? We see some large channel0 rows near row8 col7/8 and maybe bottom? Let's list channel0 large: line436 input435 (row8 col7 ch0) -2.107,1.169,0.513...; line441 input440 (row8 col8 ch0) -0.376,0.010,1.564,3.855...; line445 input444 (row8 col8 ch4) 0.142,0.491...; line382? input381 ch0? Wait line382 input381: 381//5=76 (row7 col6), ch1? 381%5=1? 76 * 5=380, ch1. So not. Channel0 large maybe at row8 col7/8 only. Also top row? line44 input43 ch3, line49 ch3. Channel0 large maybe not many. Agent position could be near bottom-right? If the agent is typically at bottom-right? That said though, I expect a sufficiently experienced human being armed with a notepad and a pencil could get there with enough effort. It's a cool paper, but some of the wider commentary I've seen around it does not feel justified. I'm not ready to declare that the age of source code is over and our future involves incomprehensible machines editing their own model weights in incomprehensible ways. Tags: machine-learning , ai , generative-ai , local-llms , llms , qwen , paper-review",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Research",
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "46933a36d2603a0bbc02a4ab06aaa85e5d632a59336c93b1a44fcecac92d5946",
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "published": "2026-11-03T05:32:25+00:00",
+      "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different flights. Via Lobste.rs Tags: privacy , youtube",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "449ed68b90056fbb63e7f9ab9f2181adbcba88a5b21fe5a8f6d53a04bba01e72",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "published": "2026-11-03T05:28:59+00:00",
+      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "9d52bf97ae05725130debf62c26307f1348b41e58a4d68c72505f41357fbe3a8",
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "published": "2026-11-02T23:49:30+00:00",
+      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM's support for embeddings now accepts that different binary content may have different content-type - necessary for models like Gemini Embedding 2 , which can embed text, audio, images, and video. A lot of open source maintainers complain about a flood of AI-assisted PRs. LLM is my project that has been most affected by this and, to be honest, I'm not finding it to be a problem. That's mainly because I have Opus 5.5 or GPT-6 Astra help me with triage to spot the most useful fixes! This release includes fixes from 12 authors - almost all AI-assisted - and the burden of reviewing them wasn't nearly as great as I expected. I really see them as bug reports with attached examples - sometimes I land them, sometimes I implement my own fix. So thanks to 0d00ciallo0721 , ac1982 , Allen Flux , Bian Yuhan , Bishop Kammeraad , Chen Yufeiyang , Christopher Krah , Ethan Stoner , Jiachen Xie , Olamide Faniyan , Sharat Chandra Sai Boddu , nosmile99 for helping out with (or spending tokens on) this release! Tags: open-source , projects , ai , annotated-release-notes , generative-ai , llms , embeddings , llm",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Gemini",
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "1e75cc35b491a3109e484947f546b0d0416b05afc428cde61208be94884ce120",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "published": "2026-11-02T13:31:26+00:00",
+      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 , aka the asinine Super Intelligence one. First, the updated chart Every two weeks the U.S. Census Bureau runs a survey called the Business Trends and Outlook Survey (aka BTOS). Each time it goes to 200,000 businesses out of 1.2 million total - the surveyed group (a \"panel\") cycles such that an individual business only completes the survey every twelve weeks. The latest data is published on alternating Thursdays at 10am. I used the most recent numbers (published October 22, 2026) to create a new version ( GPT-6 Astra Extra High transcript ) of the AI adoption chart, updated to reflect both the last twelve months and a change that was made to the survey question sent out by the Bureau: Here's a link to the larger image . For comparison, here's that AI adoption chart from last year (my GPT-5 version): In September 2025 the largest (250+ employees) companies answered \"yes\" around 12% of the time to the question about whether they used AI in \"producing goods or services\". Under the new \"any business function\" wording, by February 2026, those same large companies answered \"yes\" around 30% of the time, and by October 2026 that had increased to around 40%. The data in the above chart comes from the \"Employment size class\" XLSX file, available from here . Here's a copy of the file I used. You can view the survey document that is sent out to businesses - here's my snapshot copy of that 346KB PDF. The changing language of the questions As the chart demonstrates, the question asked by the Bureau changed in a material way on November 17th, 2025. Prior to that date, the question they asked was this (emphasis mine): In the last two weeks, did this business use Artificial Intelligence (AI) in producing goods or services ? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) On December 3rd, 2025, the Bureau announced a significant change to that question. Here's the replacement: In the last two weeks, did this business use Artificial Intelligence (AI) in any of its business functions ? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) No more \"producing goods or services\" - now it's \"in any of its business functions\"! This means that the answers to the question before and after November 17th are not directly comparable. From October 19, 2026, they ask about Super Intelligence When I went looking for the updated question language in the latest XLSX file, I couldn't find it. I found this instead: In the last two weeks, did this business use Super Intelligence or SI (formerly referred to as Artificial Intelligence or AI) in any of its business functions? (Examples of SI use include: SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service; SI-powered forecasting or pricing; SI-driven computer vision for quality control, etc.) The BTOS about page explains what happened: Beginning with the October 19, 2026 collection, instrument wording was updated due to Executive Order 14434 . The current numbers reflect the old Artificial Intelligence survey wording - the first survey results reflecting the Super Intelligence wording are due for publication on Thursday. Is this going to affect the survey? The obvious open question here is whether this wording change is going to affect the survey results. The businesses answering this survey will have last seen that question twelve weeks ago, when it was still called AI. Hopefully the new language isn't going to confuse them, especially since the survey helpfully spells out \"formerly referred to as Artificial Intelligence or AI\". I can't help but laugh at the absurdity of \"SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service\" though. Tags: census , surveys , ai , generative-ai , llms",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "e2f2cd3ee0a6015b87d12fda0bd344b7f58f01bc0573ed497f96592b308c3207",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "published": "2026-11-01T23:24:22+00:00",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But... sometimes that uv.lock pins a version of a dependency that doesn't yet have a Python 3.15 wheel. An example from earlier today: error: Failed to build `watchfiles==1.1.1`\n  cause: Call to `maturin.build_wheel` failed\n\nerror: the configured Python interpreter version (3.15) is newer\nthan PyO3's maximum supported version (3.14) Deleting that file and running uv run pytest again usually fixes the problem. Tags: uv , til , python",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "2dd1a315b516efdb2ccb537d4b449102f97901caa9a0460370c23212e06d277b",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "published": "2026-11-01T16:49:04+00:00",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "785d4ceb71a807a6705cd46d36b499b33f1c0b731acf950248ab4b575280e822",
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "published": "2026-10-31T23:15:22+00:00",
+      "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard , which can be triggered in the parent page via postMessage() from the sandboxed iframe. That message receiving code uses innerHTML , so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions. OpenAI’s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it. Once the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference. The end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf. OpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious. Via Hacker News Tags: iframes , javascript , sandboxing , security , xss , openai , chatgpt , content-security-policy",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "9fc5ee213b01bfece9987a3f5f2cb28aa63bac5fb1454b877abb4ce81a7f1193",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "published": "2026-10-31T22:10:01+00:00",
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "54f20f9f7f25bd156a2f4891b74441c4c0bdfb2296e0e691c7f841c2af36d911",
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "published": "2026-10-30T21:59:22+00:00",
+      "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Nintendo Entertainment System (as people do today with FPGAs in MISTRs) using this technique. If so, what size model would you have to build and if you could use smaller faster ones, could you get it to be at the standard clockspeed. Followed by: I think we should build it! Just for fun. It's okay if it's not fast. We want to be able to have the weights, and a cli to run them that we can point at a ROM. Apparently Opus found and then used this collection of conformance tests for the NES CPU released 15 years ago by Christopher Pow. Via Hacker News Tags: games , ai , generative-ai , llms , drew-breunig , qwen , conformance-suites",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "88899755dba00e8dcefccb9814540c5b8e366659798b0df48b7951dd26fe8783",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "published": "2026-10-29T22:48:29+00:00",
+      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I maintain subscriptions with both companies, so this is great news for me! I may even ship some public-facing demos now that the credits are already covered by my existing subscriptions. Tags: ai , openai , generative-ai , llms , anthropic , llm-pricing",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "e65fcafff408f8083fa17a897ca1881338837c87f5bda32a098f09de7c94ff6d",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "published": "2026-10-29T17:00:26+00:00",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into existence, then a dragon, then ride the dragon to fly around that castle. By Jacob's telling, Spawn is now being developed autonomously by a swarm of Fable-powered agents costing over $3 million in tokens per month (\"we spend 30x payroll on AI tokens\"). Our agents change the live code directly and ship to production hourly, so they read every error, bug report and metric themselves. About 60% of our work starts from a production error, a Savi bug report (Savi is the AI you build games with in Spawn), something odd in our logs, or a feature request. Savi files bugs herself. When a user hits one, or Savi hits one in the product, she files it. It goes straight to an agent that decides whether it's a real bug to fix, something we won't fix, or intentional design that needs a decision. Usually it becomes a change, delivered to that user within an hour, with a message in the same chat. This is continuous deployment turned up to 11: A loop this tight only works if it never stops, so we treat an hour without a ship as a SEV-0, our most severe kind of incident. Unshipped changes pile up, and every problem already in production lasts longer. The feedback slows down too. An agent can only keep a few hours of work in its head, so shipping faster than that actually helps it stay coherent. [...] We can roll back a broken change in 30 seconds, exactly where it's broken and nowhere else. When a monitor or a log alert fires, it starts or wakes an agent that owns the incident, and we break things on purpose to test that those recovery paths work. My eyebrows raised at least a dozen times reading this. I have trouble imagining this style of development working on software with higher stakes for when something goes wrong, but for a game this appears to be working surprisingly well. Jacob says that Fable 5 (and then 5.1) was the model that made this level of autonomy possible. Opus 5.5 doesn't quite hack it for them, and when they tried GPT-6 Astra to apply fixes from a security review everything stopped working: Every feature had been disabled and marked to be turned on again once the security fixes were done. Astra had gone through our whole product and made the insecure things secure by turning them off. These kinds of extreme experiments are why I'm excited about game development as a substrate for exploring the edges of what today's coding agents can do. Tags: game-design , ai , generative-ai , llms , claude , coding-agents , agentic-engineering , claude-mythos-fable",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "2d0c2102a71995514b23338e79af719982f436efcf063690f0088f0e58cc1737",
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "published": "2026-10-29T14:06:27+00:00",
+      "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "bfb31ceb6c55c182711c88a7b3778b9caaae886909f663a2136ef45e0e2d03e1",
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "published": "2026-10-28T23:23:21+00:00",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna < Terra < Sol < Astra [ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate it was launched after 5.6, may share some similarities to other 6.1 models in terms of training data / personality (which is why it's not 5.7), and isn't a giant enough leap to merit the headlines and expectations that would come with a 7. — Ted Sanders , explaining OpenAI's model naming conventions Tags: generative-ai , gpt , openai , ai , llms , ted-sanders",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "5e9e44475572a25994c07da57873330178c828ee9ba90e6f782dcacb195057a9",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "published": "2026-10-28T16:45:23+00:00",
+      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave  me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of this year. New repository rate doubled this year, to 30.3 million per month. The report includes new numbers by industry, and breaks out numbers for repositories that involve \"interoperability or reverse engineering\". The methodology section includes notes about how they did this: Top countries by pushes to public repositories, adjusted by profile location . Pushes from each country were summed across the Octoverse year. To adjust for biases caused by VPN usage, LLM classification was used to extract the ISO 3166-1 alpha-2 code from the profiles of GitHub users who contributed pushes during this period [...] Industry . Public repositories created 2022 to 2026 were sorted into NAICS sectors by a fine-tuned multilingual embedding model using name, description, topics, and README, from random samples per year. [...] Interoperability . Counts public repositories created each year whose name, description, topics, or README mention interoperability or reverse engineering, or related terms, such as clean room implementation, drop-in replacement, or protocol re-implementation. Tags: github , ai , generative-ai , llms , coding-agents , disclosures , agentic-engineering",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "70f2bbbd704a353daaa01dce428143f782c738f1be9b4029fafa0e1900871e47",
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "published": "2026-10-28T13:55:15+00:00",
+      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a compelling game: 3D modeling Music generation (see Scrimshaw Jukebox ) Game design (!) That last one is particularly important. Models have been able to create something that looks like a game for quite a while now, as seen in my previous experiments . The challenge has been getting to a game that's actually fun to play . Game design is a deep subject area. I won't pretend to be well versed in it - I know enough to have respect for it as a craft. Creating a novel, compelling gameplay loop which challenges players at the right level and provides a satisfying learning curve is a fine art. I didn't think the models could do it. Then I tried telling Claude Opus 5.5 to \"Make it a LOT more fun\"... and it did . In the past few weeks I've vibe coded (in the classic sense of the term - no looking at the code at all) four games that I've genuinely enjoyed playing. I attended Foo Camp in Berkeley over the weekend and met several people who were having similar experiences. Building games that play well is shockingly easy now. The new challenge is coming up with concepts for games that are novel and delightful and that wouldn't exist without AI assistance. I haven't done an exhaustive study, but my current impression is that GPT-6 Astra isn't quite there yet. It can absolutely build a game, but its sense of fun doesn't match that of Opus 5.5. I expect OpenAI will get there by the end of the year. Here are the four game projects that have convinced me that the models are now capable of producing fun games with very little guidance. All four are built in HTML and JavaScript and run entirely in the browser. Tree Appreciator The smallest game I found to be genuinely delightful is Tree Appreciator . I used the regular Claude chat interface for this - it didn't even need Claude Code. I built this on a whim while we were driving along Skyline Boulevard looking at trees. My prompt was: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. I've found that telling models to use three.js works really well. Claude doesn't have its own image generation model but is capable of building full-color 3D models that look and feel excellent. This game required no iteration or follow-up prompting at all - I got the game in a single shot. It gave me back a charming little mobile-friendly spot-the-difference game. You can play that here . Here's the chat transcript that built it. It's pleasingly relaxing. The graphics are fun, and collecting trees that you have completed in a \"herbarium\" provides a nice, cosy sense of accomplishment. Emberwick This was a more ambitious project that I again built using regular Claude chat. I started out by building an experimental prototype of an engine for a top-down fantasy RPG: Build a demo game engine three.js which is a top down (but at an angle) RPG - the player gets to move through the world with one or two companions. Create a fantasy village setting that demonstrates walking around outside and then shows how when the player enters a building the wall between the player and the camera goes transparent so the user can see what is happening Add some NPCs and plenty of furniture and different types of building some with an upstairs - be creative, make it look great Here's that first version . It worked really well! I was inspired to increase my ambitions: Make it not so flat - the buildings are great but the landscape itself is completely flat at the moment, fix that Add basements to two of the buildings with a tunnel system joining them below the village Add the start of a rocky mountain on one side of the village containing a cave with a sleeping troll Here's that version . When that produced a good result, I decided to push it all the way: Now turn this into an actual game - quadruple the size of the playable area, introduce fun game mechanics, add a plot that isn't too cliche, some twists, a magic system, make it really good We're back to prompts like \"make it really good\" here! Asking for a plot that \"isn't too cliche\" seemed to work too - it's a bit cliché, but still novel enough that I enjoyed following the story. Unlike Tree Appreciator, this took quite a bit of additional playtesting and prompting to get to a finished version. This was mainly due to gameplay problems - things like a character not being in the right place to complete a quest because a different story element had caused them to move to another location. Here's that final game . It has a full story that takes about 15 minutes to play through. There's even an experimental level editor if you want to drop in your own houses, furniture, and landscape features. Once it was all working (and I'd iterated through some gameplay bugs), I played it through from start to finish and found myself emotionally affected by the ending! I'm somewhat embarrassed by this, because everything in this game - the graphics, the plot, the characters, the music, the dialog - came from the model. My creative input was pretty much just \"it's a fantasy village and there's a troll asleep in a cave\". Here's the full shared Claude chat in which I built this game. I also fed that same initial sequence of prompts through ChatGPT GPT-6 Pro. Here's the transcript and the finished game for comparison. It looks great, but I don't think it plays nearly as well. Battle Drones This is by far my most successful project, which I wrote about last week . It's a Command & Conquer-style Real-Time Strategy game where two robot armies (or four as of Saturday ) build units, harvest scrap, and battle over territory. This is also the project that convinced me that Opus 5.5 knows what \"fun\" is. The first versions were built back in July using Claude Fable 5. It got me to a workable 2D Command & Conquer-style game, but it wasn't great to play. I prompted Opus 5.5 to \"Make it a LOT more fun\" and then later to \"Port this game to three.js\" and the game was transformed. There's a blow-by-blow account (prompts included) in my write-up . Today, Battle Drones has 2-4 player multiplayer (via a vibe coded WebSockets relay server), medals, replays, seven maps, a random map generator, and a set of \"mutators\" that add variants of the rules. It also lets different LLMs play against each other, using a mode where the game advances five seconds and then pauses to give different models time to interpret the new game state and line up their next set of commands. Here's a replay of Claude Haiku 5.5 vs. GPT-6 Luna : Battle Drones is a particularly good example of Opus 5.5's ability to create 3D models. This page lets you browse all of the models in the game . I released Battle Drones under the Apache 2.0 License last Tuesday. On Wednesday Gabriel Turpin released Panache ( screenshots here ), a fork of Battle Drones that reimagined the game for steampunk 1900s Belle Époque France, with new models and music and an animated intro sequence. Open source at work! Pumpkin Farmer, aka Quarter Sun Cove I live in Half Moon Bay, California , home of the annual Half Moon Bay Art and Pumpkin Festival , which includes a giant pumpkin weigh-off competition. I decided to try building a game that wasn't just a cheap imitation of something that already existed, so I set out to create a game about farming pumpkins, growing giant pumpkins, and handling the rush of the October pumpkin season. I called it \"Quarter Sun Cove\". I'm still iterating on this project, but it's shaping up quite nicely. It's a cosy farming simulator where you spend the year tending to your giant pumpkin and planting out regular-sized pumpkins for sale in October, then sell pumpkins during pumpkin season and enter your giant pumpkin in the weigh-off. Every character in it is a (vegetarian) animal. The mayor of the town is a pelican. You can be a pelican, skunk, raccoon, possum, beaver, coyote, fox, owl, sea otter, or harbor seal. Those species all later show up (accompanied by their children) to buy pumpkins from you. It's absurdly cute. You can play the latest version here . I'm not convinced by the game mechanics yet - it's actually quite complicated: you have to decide when to plant pumpkins such that they will become ripe at the weekends in October with the most visitors. Here's the initial brainstorming session , which resulted in this spec file . Then I had Opus 5.5 Ultracode burn millions of tokens and nearly two days building it. I told Claude to \"surprise and delight the user frequently\" and the result is so many little details and easter eggs. There are mischievous raccoons, an elephant seal that runs the weigh-off, harbor seals that roll their pumpkins back into the ocean, a wandering goat, and superstitions about growing giant pumpkins that sometimes come true. This isn't my best game yet - it's not as fun to play as Battle Drones - but it represents the kind of game I want more of: weird, fun, uniquely personal - something that wouldn't have been built in the before-times. Four times as insulting If you are offended by AI-generated art, AI-generated music, AI-generated writing, and AI-generated code, I have bad news for you: vibe coded games combine all of those at once . I respect those opinions, even though I don’t strongly hold them myself. The wider games community already has an aversion to AI-generated assets in games. This has been a growing issue over the past few years as tools like Midjourney have enabled developers to generate assets for their projects. This IGN story covering complaints about slop in Valve's Steam Next Fest is a good recent example. We now have games where everything - code, assets, dialog, and even the game design itself - can be outsourced to the models. And the results don't suck! Building a computer game used to be one of the most challenging projects in all of software development, combining a diverse range of skills and requiring intense focus and effort over many months or even years. And now here I am spitting out a playable multiplayer RTS by prompting on my phone! I expect that, as we've already seen with programming, this will result in a split. Some players will refuse to have anything to do with games that were built in this way. Others may embrace this as opening up game development to a much wider audience. I lean in that direction! I certainly won't be entering any of my vibe coded games in traditional game jams or competitions - I don't feel like I've earned that right. We'll likely see new avenues emerge for vibe game developers to compare their projects. What happens if someone actually puts the work in? The thing I find both exciting and shameful about this is that I have got interesting results from so little creative input . The projects I've described here are loosely ordered by how much effort I've put into them. Not a single project represents more than four hours of my work (plus many more hours of Claude Code churning away by itself). Now imagine what could be achieved by anyone who takes this seriously, invests significant creative time, applies better taste in game design, and then playtests and iterates on the result until it's as good as they can make it. I want to see games that wouldn't have existed without these new tools. You should build a game! Building games in this way is so much fun . It's the perfect application for vibe coding because it's so low stakes: how much damage can you cause with a bug in a personal vibe coded game project? (OK, you can do some damage... my attempt at audio-based multiplayer gave my wife Natalie a nasty headache !) All of my games so far have been HTML and JavaScript using static hosting (generally GitHub Pages or Cloudflare Pages). Modern browsers - including mobile browsers - are incredibly capable. Frontier models already know libraries like three.js and Phaser . I'm finding these mobile web games to be indistinguishable from the native experience, at least for the kinds of games I'm trying to build. I suggest starting with a prompt like this: Build a mobile-friendly three.js game where... This works on both chatgpt.com and claude.ai - you don't even need to fire up a full coding agent. As one last example, here's \"Build a mobile-friendly three.js game where a mouse has to hide from a cat\" by Claude Opus 5.5 Extra and by GPT-6 Extra High . Switch to Codex or Claude Code once your project passes the proof-of-concept phase. And if the game isn't fun enough, add this: Make it a LOT more fun Tags: game-design , games , ai , generative-ai , chatgpt , llms , claude , vibe-coding , claude-code",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "ChatGPT",
+        "Research",
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "6d1e998db622c805a94effefd672f8ef0da3a5dc1fd732d1a5bbb61a2d0dd6dc",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "published": "2026-10-28T10:09:07+00:00",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "68b12007f7f448554e3b1d0a8806f25a97ab1758c5cbd85a486092a2ae607f3d",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "published": "2026-10-27T19:34:18+00:00",
+      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body. Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini , steve-francia",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Gemini",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "670bdc25a85edb1886da1f719bac36991fe8a3da8fa4b2fd98f124747c57fd2d",
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "published": "2026-10-26T23:53:07+00:00",
+      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model collection - not the cheapest or the most expensive, making it harder to decide when to use it. Computer use is a good example of a task that benefits from a less expensive model, since you might put it to work on automated, repetitive tasks. OpenAI's Ted Sanders provided some useful advice in a comment on Hacker News: In the case of GPT-6.1 Terra, I'd say Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use (but much faster!), and a bit worse on most other things. For API developers, it's a nice midrange option if you want something cheaper than Sol but a lot smarter than Luna (especially for vision / computer use / communication). For subscribers, it's not a bombshell release - if you're hitting usage limits, maybe it helps you go a bit further, and if you want clearer communication or faster computer use, it can be a nice option to select. Here are the pelicans for the different reasoning levels. This pelican for \"max\" cost 11.3161 cents and took 4 minutes and 11 seconds: Here's a new comparison grid showing pelicans for every reasoning level of OpenAI's current frontier lineup: GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, and GPT-6 Luna. GPT-6.1 Terra is priced at $1/million input tokens and $5/million output - almost half the price of GPT-5.6 Terra and GPT-6.1 Sol, and around 10x the price of GPT-6 Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , llm-pricing , pelican-riding-a-bicycle , llm-release , gpt , ted-sanders",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "7788db21557944ebc000e0af5688be0fa0e24b8ae3a9cae91786af692b0f3ef7",
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "published": "2026-10-26T19:00:25+00:00",
+      "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt , 404-media",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "335251daca6e8721ddac29ef2c2fa8a639bb83d108374823a80bb4d4067858e2",
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "published": "2026-10-26T16:15:00+00:00",
+      "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to bundle its own browser engine. It reminds me of my own shot-scraper javascript tool, albeit in a much smaller package that doesn't depend on Playwright. I had Claude Opus 5.5 put it through its paces and prepare a research report for me. Here's the prompt I used: Explore https://github.com/tractordev/webframe try running it and put it though its paces, build a few exploratory prototypes, then evaluate it as a potential sandboxing tool and as a tool for scraping web pages using the same patterns encouraged by the \"shot-scraper JavaScript\" command (see simonw/shot-scraper on GitHub, docs directory) Tags: browsers , go , javascript , jeff-lindsay , shot-scraper",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Research",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "0186c0f1dfec08d5c6eec295718b5728d1096374ea6882d1f5e9f100b709e125",
+      "title": "Seam Cutter",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "published": "2026-10-25T15:10:19+00:00",
+      "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for example. Tags: tools",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "6e1fc50fabcdd1bddaf7cd978d837372e3f99225a468f465df8493193b6b09ac",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "published": "2026-10-24T03:59:57+00:00",
+      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code to support up to four players for that map, joining via share links or QR codes. The new teams use robots themed in purple and green, joining the existing blue and red designs. You can preview those colors in the updated model browser . Here's a replay link to watch a four way AI battle with the \"Goliath Armada\" mutator turned on, where each side starts with four giant Goliath mech units. Tags: game-design , projects , claude",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "224c3d5c5f30d73d95d2e6790c1a0176175404f6bbfa1c6563944f8ef308ebdd",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "published": "2026-11-06T18:43:43+00:00",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 28.03,
+      "tier": "Standard"
+    },
+    {
+      "id": "ab976e70bde961f741774f19f54967f5987dd08fab8edcfad78f58722976d1d4",
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "published": "2026-11-06T16:00:00+00:00",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 28.0,
+      "tier": "Standard"
+    },
+    {
       "id": "949cd37b2430bb62e920d9d6a6c813f73528aad1d041be8b1b1c92845131e458",
       "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
       "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
@@ -26834,7 +27395,7 @@
         "Claude",
         "Discovery"
       ],
-      "score": 29.96,
+      "score": 28.0,
       "tier": "Standard"
     },
     {
@@ -26906,37 +27467,20 @@
       "tier": "Standard"
     },
     {
-      "id": "ed6b02cc242f29ecba4b087d9a0f072fe0cc2f59341becfdc3b8489d05b22f4a",
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "published": "2026-11-05T11:45:00+00:00",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "source": "Wired AI",
+      "id": "10a068d174c6f253199969fdd088d3faedc7e22bcb9a6c74389b484c9f72961f",
+      "title": "An inside look at Anthropic’s AI speedup",
+      "url": "https://therundownai.beehiiv.com/p/an-inside-look-at-anthropic-s-ai-speedup",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "PLUS: Use AI to find a job and prepare to get hired",
+      "source": "The Rundown AI",
       "source_tier": 2,
-      "authority_weight": 28,
+      "authority_weight": 20,
       "is_research": false,
-      "is_aggregator": false,
+      "is_aggregator": true,
       "categories": [
         "Discovery"
       ],
-      "score": 28.0,
-      "tier": "Standard"
-    },
-    {
-      "id": "e394d28ac6bc71667d97500099af057030c44784a07af2a145fb191b1d6d6018",
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "published": "2026-11-04T23:13:14+00:00",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 28.0,
+      "score": 20.0,
       "tier": "Standard"
     },
     {
