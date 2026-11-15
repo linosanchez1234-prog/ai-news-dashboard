@@ -1,8 +1,470 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-11-14T18:57:16.130540+00:00",
-  "article_count": 1629,
+  "last_updated": "2026-11-15T19:34:20.713550+00:00",
+  "article_count": 1630,
   "articles": [
+    {
+      "id": "6c2c64409dfbba0f00e1fc817360bdea3d08908c1d680733d87732f268111c54",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "published": "2026-11-15T19:15:43+00:00",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 59.81,
+      "tier": "Trending"
+    },
+    {
+      "id": "b2588a8d5a9b042c545c878a6d670fa6348cb89691c299fc68d771a57925c024",
+      "title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+      "url": "https://github.com/raymondhani/aegis-proxy",
+      "published": "2026-11-15T19:11:40+00:00",
+      "summary": "Article URL: https://github.com/raymondhani/aegis-proxy Comments URL: https://news.ycombinator.com/item?id=50509721 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.76,
+      "tier": "Trending"
+    },
+    {
+      "id": "8d844b42c3866ff29e2cf7f22469c5c2bac18f4b03ba0d3f4c6622235c8b094e",
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "published": "2026-11-15T19:06:03+00:00",
+      "summary": "Article URL: https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/ Comments URL: https://news.ycombinator.com/item?id=50509661 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.71,
+      "tier": "Trending"
+    },
+    {
+      "id": "16a9fefc56ba4b5927682cc5d89c9ec81032d68549ad832b26b4f4bc804b376f",
+      "title": "The Weak-Link Asymmetry: AI's Peril and Promise [pdf]",
+      "url": "https://christophertonetti.com/files/papers/JonesTonetti_WeakLinksRisk.pdf",
+      "published": "2026-11-15T18:44:21+00:00",
+      "summary": "Article URL: https://christophertonetti.com/files/papers/JonesTonetti_WeakLinksRisk.pdf Comments URL: https://news.ycombinator.com/item?id=50509489 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Research",
+        "Discovery"
+      ],
+      "score": 57.48,
+      "tier": "Trending"
+    },
+    {
+      "id": "0b2fc640416a4b1b77b6bba5009b189a14032e9cf2f1db971a633c78f9285d18",
+      "title": "How AI will change engineering leadership in 2027",
+      "url": "https://bjorg.bjornroche.com/management/ai-in-2027/",
+      "published": "2026-11-15T18:11:07+00:00",
+      "summary": "Article URL: https://bjorg.bjornroche.com/management/ai-in-2027/ Comments URL: https://news.ycombinator.com/item?id=50509201 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.13,
+      "tier": "Trending"
+    },
+    {
+      "id": "8088d2eb124b43a7c796966a2a5cfe89b2e11a494ea69cecbf91224415e1b083",
+      "title": "We handed our lives to closed software. AI is about to show us the cost",
+      "url": "https://news.ycombinator.com/item?id=50509195",
+      "published": "2026-11-15T18:10:48+00:00",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50509195 Points: 3 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.13,
+      "tier": "Trending"
+    },
+    {
+      "id": "3ad0c0dae562f868866d55cd1550738c8f3155c7c0e8a61f7345abf4a1e1b497",
+      "title": "NY AI Rules: Confidential Reports, Daily Fines, and a Kill Switch Wish List",
+      "url": "https://reclaimthenet.org/new-york-raise-act-ai-registration-rules",
+      "published": "2026-11-15T18:04:16+00:00",
+      "summary": "Article URL: https://reclaimthenet.org/new-york-raise-act-ai-registration-rules Comments URL: https://news.ycombinator.com/item?id=50509121 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.06,
+      "tier": "Trending"
+    },
+    {
+      "id": "4fea67d3ef253d5eb3b9bffa0cb42f6b992eb1c968a1b09006f5977003307841",
+      "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+      "url": "https://attest-framework.github.io/",
+      "published": "2026-11-15T18:03:01+00:00",
+      "summary": "Article URL: https://attest-framework.github.io/ Comments URL: https://news.ycombinator.com/item?id=50509107 Points: 3 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 57.05,
+      "tier": "Trending"
+    },
+    {
+      "id": "e59ce02dc84c2499ef5c4297d749f429b46d0b7554fb77855cedb35499461ecd",
+      "title": "How AI is likely to change Germany's job market",
+      "url": "https://www.dw.com/en/how-ai-is-likely-to-change-germanys-job-market/a-79941597",
+      "published": "2026-11-15T17:57:05+00:00",
+      "summary": "Article URL: https://www.dw.com/en/how-ai-is-likely-to-change-germanys-job-market/a-79941597 Comments URL: https://news.ycombinator.com/item?id=50509052 Points: 3 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.99,
+      "tier": "Trending"
+    },
+    {
+      "id": "5d8dfe55542be1a8e285e2e30c5ddc1fd90bc10efd6a4fcce935427af3febdd3",
+      "title": "Show HN: Local AI Video Agent",
+      "url": "https://www.wiyomi.com/",
+      "published": "2026-11-15T17:55:38+00:00",
+      "summary": "Hi HN, Hakim is here. I am trying to make video agent can be run fully local on the device instead of cloud. This might be more useful for people who are trying to cut cost of mass content production. We think this will be so helpful for people producing UGC content, storytelling, talkinghead, and more. It is still very early and honestly not really well refined plan, but yea that's the point for launching this early so people can share their thoughts and shape the idea much better! Appreciate for any comments and feedback from everyone :) Comments URL: https://news.ycombinator.com/item?id=50509047 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.97,
+      "tier": "Trending"
+    },
+    {
+      "id": "02ba9b54f0c6bdf36cd88a9418866db8500a6d4dbde7501c05cb06c8ffa8acd5",
+      "title": "Ask HN: What do you include in your Claude/Codex instructions?",
+      "url": "https://news.ycombinator.com/item?id=50509044",
+      "published": "2026-11-15T17:55:30+00:00",
+      "summary": "Hi, Why I posted the question: I know that Fable/Opus tries to keep the human a little bit more in the loop by asking questions and explaining/asking edge cases. I would like to improve it a little more, just to maintain my critical thinking when using these tools. Comments URL: https://news.ycombinator.com/item?id=50509044 Points: 3 # Comments: 1",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.97,
+      "tier": "Trending"
+    },
+    {
+      "id": "32b37ac6f0f1162d352a81a2b0faf94b33669ccf9acbaf5ad4660778cc2f9656",
+      "title": "Top scorer in South Korea tax exam admits AI cheating",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "published": "2026-11-15T17:49:28+00:00",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam Comments URL: https://news.ycombinator.com/item?id=50508983 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.91,
+      "tier": "Trending"
+    },
+    {
+      "id": "030d490fb3c485cf73ae479ffc4371ae40263e60eea64a7ca2f2b78b3b3836a5",
+      "title": "Show HN: Pocket Garden – a player interface to over 130 AI based web games",
+      "url": "https://triptych.github.io/web-games-andrew/console/",
+      "published": "2026-11-15T17:48:21+00:00",
+      "summary": "Play over 130 original web based games with a mobile friendly interface. New games arrive almost daily. Free and open source. Comments URL: https://news.ycombinator.com/item?id=50508977 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 56.9,
+      "tier": "Trending"
+    },
+    {
+      "id": "b088aa994e815ea6461b161cb8477bebe64a51447c3d5205cc20975878125ad8",
+      "title": "Can the AI boom make enough money to sustain itself?",
+      "url": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+      "published": "2026-11-15T17:41:06+00:00",
+      "summary": "Article URL: https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself Comments URL: https://news.ycombinator.com/item?id=50508910 Points: 3 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.82,
+      "tier": "Trending"
+    },
+    {
+      "id": "c9b233c26248939fffb9903395ad929624ac7d54524c4a288ffa68c35e544bd9",
+      "title": "Jensen Huang's exit from Nvidia impacts China's AI supply chain",
+      "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+      "published": "2026-11-15T17:41:01+00:00",
+      "summary": "Article URL: https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/ Comments URL: https://news.ycombinator.com/item?id=50508909 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.82,
+      "tier": "Trending"
+    },
+    {
+      "id": "170fc130bc9b059718f72882fcdca03ead9b0c1628a96e7e0fc77ac94cc8d6cc",
+      "title": "Victoria University lecturers steer students away from AI use in education",
+      "url": "https://www.rnz.co.nz/news/education/2618219/victoria-university-lecturers-steer-students-away-from-ai-use-in-education",
+      "published": "2026-11-15T17:39:07+00:00",
+      "summary": "Article URL: https://www.rnz.co.nz/news/education/2618219/victoria-university-lecturers-steer-students-away-from-ai-use-in-education Comments URL: https://news.ycombinator.com/item?id=50508890 Points: 4 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.8,
+      "tier": "Trending"
+    },
+    {
+      "id": "c395390ad826cfc43bd4b89787eb0993537149d7f20faecd78d85c79b6fae057",
+      "title": "Member-Governed AI Inference Cooperative",
+      "url": "https://inference.coop/",
+      "published": "2026-11-15T17:39:06+00:00",
+      "summary": "Article URL: https://inference.coop/ Comments URL: https://news.ycombinator.com/item?id=50508888 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.8,
+      "tier": "Trending"
+    },
+    {
+      "id": "f9bc1d0eac05fde66941f2c91bb10289998cd6c818db96afeb49f7b2b132ee2c",
+      "title": "Groma.md: Stay in control of your architecture as AI agents write code",
+      "url": "https://github.com/MrLesk/Groma.md",
+      "published": "2026-11-15T17:18:44+00:00",
+      "summary": "Article URL: https://github.com/MrLesk/Groma.md Comments URL: https://news.ycombinator.com/item?id=50508688 Points: 3 # Comments: 1",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.59,
+      "tier": "Trending"
+    },
+    {
+      "id": "885d4c2dbf660f0c89414ad5374b892b28c3a5e409aebabfb5835a6d5617af4f",
+      "title": "Tuning a Linux laptop for AI-assisted development",
+      "url": "https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development/",
+      "published": "2026-11-15T17:15:35+00:00",
+      "summary": "Article URL: https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development/ Comments URL: https://news.ycombinator.com/item?id=50508649 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.55,
+      "tier": "Trending"
+    },
+    {
+      "id": "5239c892cb76b7462caea150a8eecc94f61dc9b346cfe8b47e74038614cade4f",
+      "title": "GitSeed – Self-hosted control plane for AI coding agents",
+      "url": "https://github.com/gitseed-dev/gitseed",
+      "published": "2026-11-15T17:12:48+00:00",
+      "summary": "Article URL: https://github.com/gitseed-dev/gitseed Comments URL: https://news.ycombinator.com/item?id=50508614 Points: 2 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.53,
+      "tier": "Trending"
+    },
+    {
+      "id": "0594b45c23fcd57aef8846fc7de76f4f1f01fd47db43c40811eed9c014482be0",
+      "title": "Factum – Human-first, AI-native modeling for VS Code",
+      "url": "https://www.factum-orm.com/",
+      "published": "2026-11-15T17:09:57+00:00",
+      "summary": "Article URL: https://www.factum-orm.com/ Comments URL: https://news.ycombinator.com/item?id=50508576 Points: 1 # Comments: 0",
+      "source": "Hacker News AI",
+      "source_tier": 1,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 56.5,
+      "tier": "Trending"
+    },
+    {
+      "id": "13482003797f2776b71cf0481a0c881a4907f7ff96c452929c2305225b94d008",
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "published": "2026-11-15T13:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 55.89,
+      "tier": "Trending"
+    },
+    {
+      "id": "dc713a483ba5be6154a3ccfa506f9fe190a6e3a5a4518393972df3c4b2b507e1",
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "published": "2026-11-15T12:00:00+00:00",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 53.27,
+      "tier": "Trending"
+    },
+    {
+      "id": "813b58e5440732006ed1356e5a7f6fcfa5dab1f04d5185a520e1532766ef4fc6",
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "published": "2026-11-15T11:00:00+00:00",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 52.64,
+      "tier": "Trending"
+    },
+    {
+      "id": "167c81c5d6fc7db57e5d8050dad8aa2d9c145c2e728ec6de40d656937d161a0d",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "2026-11-15T00:08:07+00:00",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 49.85,
+      "tier": "Trending"
+    },
+    {
+      "id": "fc1d70bba296bc73c15323b60b097a96b51a887bae46038613c72fbc763045d0",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "2026-11-14T21:41:22+00:00",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 48.32,
+      "tier": "Trending"
+    },
+    {
+      "id": "9c481a0931060f36109eb2e6cd0ae316dc4877c8ea8000c5378e44dc8dc77b2d",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "published": "2026-11-14T23:59:28+00:00",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.io/content.db\n\nuvx --with datasette-agent datasette \\\n  --root --secret 1 \\\n  -s plugins.datasette-llm.default_model ' { \"model\": \"lmstudio-qwen\", \"model_name\": \"qwen/qwen3.8-27b\", \"api_base\": \"http://localhost:1234/v1\" } ' content.db And you'll get a local server running a Datasette Agent instance powered by your local model! Tags: uv , datasette-agent , llm , datasette , llms , ai , generative-ai",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Open Source",
+        "Discovery"
+      ],
+      "score": 47.76,
+      "tier": "Trending"
+    },
     {
       "id": "238432e278b3a0376a6fc6ad25e68199e1e2a7031f5bf528d76de0bcaabf80ec",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -17,7 +479,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 61.09,
+      "score": 45.7,
       "tier": "Trending"
     },
     {
@@ -34,76 +496,24 @@
       "categories": [
         "Discovery"
       ],
-      "score": 60.51,
+      "score": 45.12,
       "tier": "Trending"
     },
     {
-      "id": "575bbfa070b675e2d2383ed00b59de87c3fb9becc2f777a0500fe949a1c016ef",
-      "title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
-      "url": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
-      "published": "2026-11-14T18:33:37+00:00",
-      "summary": "Article URL: https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html Comments URL: https://news.ycombinator.com/item?id=50499499 Points: 3 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
+      "id": "c7271b7ac99ecdcd291f7997f30411cf66e3852ee453480b5b6bc2dd9d441786",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "published": "2026-11-14T17:09:09+00:00",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live demo in the README now links to this demo on Datasette Lite . Tags: datasette , visualisation , datasette-lite",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 57.75,
-      "tier": "Trending"
-    },
-    {
-      "id": "70097c72de443859f581be7bfe1de9a4163ff534264d3ee88c739505f879d92c",
-      "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
-      "url": "https://github.com/noambrand/ai-time-estimator",
-      "published": "2026-11-14T18:32:30+00:00",
-      "summary": "Article URL: https://github.com/noambrand/ai-time-estimator Comments URL: https://news.ycombinator.com/item?id=50499487 Points: 2 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Discovery"
-      ],
-      "score": 57.74,
-      "tier": "Trending"
-    },
-    {
-      "id": "daba7844deca4d3c4769e0408fe4c11c3a1b96fc7b59c2c772d1199e0df2fd05",
-      "title": "AI Company Employees Should Unionize",
-      "url": "https://www.nature.com/articles/d41586-025-00649-4",
-      "published": "2026-11-14T18:31:36+00:00",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-025-00649-4 Comments URL: https://news.ycombinator.com/item?id=50499479 Points: 1 # Comments: 2",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.73,
-      "tier": "Trending"
-    },
-    {
-      "id": "d13f0bfaa3231ba817b822e1191c1988236c8d5f8e5f9e96207bd27abd69e02e",
-      "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
-      "url": "https://blog.dfb.sh/blog/claude-desktop-freeze/",
-      "published": "2026-11-14T18:27:55+00:00",
-      "summary": "Article URL: https://blog.dfb.sh/blog/claude-desktop-freeze/ Comments URL: https://news.ycombinator.com/item?id=50499446 Points: 2 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.69,
+      "score": 43.49,
       "tier": "Trending"
     },
     {
@@ -120,266 +530,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 57.53,
-      "tier": "Trending"
-    },
-    {
-      "id": "78b1d9ffc02bb73dfb67178eda82f473d1f171c3ca29d76af10c3e32fd03439a",
-      "title": "Show HN: Model-share – see which Claude models used your weekly limit",
-      "url": "https://github.com/shubhamverma8991/claude-model-share",
-      "published": "2026-11-14T18:07:39+00:00",
-      "summary": "Article URL: https://github.com/shubhamverma8991/claude-model-share Comments URL: https://news.ycombinator.com/item?id=50499250 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Discovery"
-      ],
-      "score": 57.48,
-      "tier": "Trending"
-    },
-    {
-      "id": "f79afd183dce7791a3e32702ed12f6fc79cf662af48ba5baee031995e3c83435",
-      "title": "Nonna's ragù: AI skill files only get you started",
-      "url": "https://andreaazzini.com/notes/nonnas-ragu",
-      "published": "2026-11-14T18:03:43+00:00",
-      "summary": "Article URL: https://andreaazzini.com/notes/nonnas-ragu Comments URL: https://news.ycombinator.com/item?id=50499222 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.44,
-      "tier": "Trending"
-    },
-    {
-      "id": "38a730d435a659d039dc0177c732b2359de8031515582d09c5839a1167a806a6",
-      "title": "Christophe Pettus: Stop Using AI to Report PostgreSQL Bugs",
-      "url": "https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/",
-      "published": "2026-11-14T17:58:50+00:00",
-      "summary": "Article URL: https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/ Comments URL: https://news.ycombinator.com/item?id=50499186 Points: 5 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.39,
-      "tier": "Trending"
-    },
-    {
-      "id": "f2efc7a1540a36d75911e2857dcaede47aa65fcae943ef62c930e3220065ae63",
-      "title": "Use LLM for direct robot control",
-      "url": "https://arxiv.org/abs/2610.28259",
-      "published": "2026-11-14T17:55:04+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2610.28259 Comments URL: https://news.ycombinator.com/item?id=50499150 Points: 1 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research"
-      ],
-      "score": 57.35,
-      "tier": "Trending"
-    },
-    {
-      "id": "d040778ff986aa03f6e7572465c335c50fde6a3434e39ecf6921d483d3f77526",
-      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "published": "2026-11-14T17:51:13+00:00",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits Comments URL: https://news.ycombinator.com/item?id=50499114 Points: 14 # Comments: 10",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Discovery"
-      ],
-      "score": 57.31,
-      "tier": "Trending"
-    },
-    {
-      "id": "8e7a7792402c0851bdd314ca8823626693c4e101878de3448bc433aba7f124bd",
-      "title": "Show HN: YVD – Generate videos, images, and music in seconds with AI",
-      "url": "https://yvd.io/",
-      "published": "2026-11-14T17:48:35+00:00",
-      "summary": "YVD is an AI studio for creating videos, images, and music. Features include text-to-video, text-to-image, AI music generation, and PNG background removal. Built with Seedance and GPT image models. Free tier with 20 welcome credits + 10 daily credits. Comments URL: https://news.ycombinator.com/item?id=50499089 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.28,
-      "tier": "Trending"
-    },
-    {
-      "id": "01d57312699c3a66016c083f6efd87771bb5af93e54727773709c6fe6d18708f",
-      "title": "Show HN: Themes for Claude Code",
-      "url": "https://tessera.shiptiffin.app/",
-      "published": "2026-11-14T17:33:25+00:00",
-      "summary": "Claude Code mods came out yesterday, so I built 25 themes. Each one has its own colors, background art, spinner words and sounds. Comments URL: https://news.ycombinator.com/item?id=50498921 Points: 1 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 57.13,
-      "tier": "Trending"
-    },
-    {
-      "id": "8366e788c821e5bd9068a58b40dd8536c3846d0962299192f37dcbf7e1431272",
-      "title": "Turbo Vision-style UI for Claude Code",
-      "url": "https://github.com/runvnc/tvclaude",
-      "published": "2026-11-14T17:18:14+00:00",
-      "summary": "Article URL: https://github.com/runvnc/tvclaude Comments URL: https://news.ycombinator.com/item?id=50498730 Points: 2 # Comments: 1",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.97,
-      "tier": "Trending"
-    },
-    {
-      "id": "7a471d5d5d84c05ac9d5e5ac18bdd10e2641eee41dd7b122b9a05bd07e2e5af5",
-      "title": "Ask HN: Do I own the code I write with the help of AI?",
-      "url": "https://news.ycombinator.com/item?id=50498553",
-      "published": "2026-11-14T16:59:26+00:00",
-      "summary": "Hi folks, I wanted to ask this simple question: is the code I write with AI mine to license as I please? I hear from a lot of people that one can’t copyright works made with AI, can someone with knowledge give us a definitive answer on this topic? Comments URL: https://news.ycombinator.com/item?id=50498553 Points: 3 # Comments: 4",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.77,
-      "tier": "Trending"
-    },
-    {
-      "id": "394f7c79180beb24af1f55921596c965e1c37252564b48a224cb054e992c22b3",
-      "title": "Preventing an AI catastrophe, a brief into to analysis by synthesis",
-      "url": "https://shukla.io/blog/2026-11/analysis-by-synthesis.html",
-      "published": "2026-11-14T16:31:48+00:00",
-      "summary": "Article URL: https://shukla.io/blog/2026-11/analysis-by-synthesis.html Comments URL: https://news.ycombinator.com/item?id=50498325 Points: 2 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.48,
-      "tier": "Trending"
-    },
-    {
-      "id": "7c623e4a108b73f9a46e4f702f037597909262179e2f899dea1176d0ee2311de",
-      "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
-      "url": "https://github.com/slashman413/cowork",
-      "published": "2026-11-14T16:27:00+00:00",
-      "summary": "Article URL: https://github.com/slashman413/cowork Comments URL: https://news.ycombinator.com/item?id=50498282 Points: 3 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Discovery"
-      ],
-      "score": 56.43,
-      "tier": "Trending"
-    },
-    {
-      "id": "bd9839f21a2036c19c37248fc57fc3b1ece73844bb6ed2f2505f32071e7b733d",
-      "title": "The Missing Ring-0 Protections for AI Agents",
-      "url": "https://hwtn.io/essays/t0013-missing-ring-0-protections-ai",
-      "published": "2026-11-14T16:23:05+00:00",
-      "summary": "Article URL: https://hwtn.io/essays/t0013-missing-ring-0-protections-ai Comments URL: https://news.ycombinator.com/item?id=50498251 Points: 2 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.39,
-      "tier": "Trending"
-    },
-    {
-      "id": "1b76737cbf2f429a3505308f557901d7172f89c819083e35569519649374e3e0",
-      "title": "Anthropic: Mythos got Claude running on AMD chips in 3 days instead of months",
-      "url": "https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/",
-      "published": "2026-11-14T16:08:23+00:00",
-      "summary": "Article URL: https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/ Comments URL: https://news.ycombinator.com/item?id=50498130 Points: 3 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Discovery"
-      ],
-      "score": 56.24,
-      "tier": "Trending"
-    },
-    {
-      "id": "3aff7a3db8a3d91b53982f42cb8a1ebaa48bbc30fbc10ca6d60bbcd240e4769d",
-      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-      "published": "2026-11-14T15:58:57+00:00",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls Comments URL: https://news.ycombinator.com/item?id=50498051 Points: 19 # Comments: 11",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.14,
-      "tier": "Trending"
-    },
-    {
-      "id": "e172cf503388f5cbddeefb3c6746e949c8d13af11140abef9c69f040ea78d614",
-      "title": "Today's forecast: AI behaving unpredictably",
-      "url": "https://aistormdesk.com/",
-      "published": "2026-11-14T15:54:55+00:00",
-      "summary": "Article URL: https://aistormdesk.com/ Comments URL: https://news.ycombinator.com/item?id=50498020 Points: 1 # Comments: 0",
-      "source": "Hacker News AI",
-      "source_tier": 1,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 56.1,
+      "score": 42.14,
       "tier": "Trending"
     },
     {
@@ -396,41 +547,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 55.65,
-      "tier": "Trending"
-    },
-    {
-      "id": "7f554d543072bd6350e72c4b28cbc5173d49c070676b9e5412050e7012e30743",
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "published": "2026-11-14T13:00:00+00:00",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 54.28,
-      "tier": "Trending"
-    },
-    {
-      "id": "75102a44dc7a210b1ce4abef39e13e0e621a0f3b87dd9c724c7752b7cd5cc8b7",
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "published": "2026-11-14T11:00:00+00:00",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 53.03,
+      "score": 40.27,
       "tier": "Trending"
     },
     {
@@ -447,28 +564,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "score": 52.53,
-      "tier": "Trending"
-    },
-    {
-      "id": "9d694fa95af0cfaecf5267b73e7d6230221ffb467ae88ba047b8eeb9ff850562",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "published": "2026-11-13T22:43:00+00:00",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "also_covered_by": [
-        "Hacker News AI"
-      ],
-      "categories": [
-        "Industry",
-        "Discovery"
-      ],
-      "score": 49.35,
+      "score": 40.0,
       "tier": "Trending"
     },
     {
@@ -485,302 +581,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "score": 48.15,
-      "tier": "Trending"
-    },
-    {
-      "id": "96048276e5de0ccf8cbe79a81bae4da5ea80b981a5cdccf2d6da1abf2b97079e",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "published": "2026-11-13T23:49:11+00:00",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 48.04,
-      "tier": "Trending"
-    },
-    {
-      "id": "2053de078f05bd0a49e004a6f8c9f68c0154a94b7ea14d0b9adeb94b91e8f334",
-      "title": "datasette-cluster-map 0.19",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "published": "2026-11-13T23:02:45+00:00",
-      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
-      "source": "Simon Willison",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 47.56,
-      "tier": "Trending"
-    },
-    {
-      "id": "49f0b0840b1ef26af09f29c86adc67fccd4a404dbae10e2dbf51e8f46347b640",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "published": "2026-11-13T19:37:57+00:00",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Industry",
-        "Discovery"
-      ],
-      "score": 47.42,
-      "tier": "Trending"
-    },
-    {
-      "id": "a840b1604a3a5e19683a3aaca3bf6ae147c54af5ac713ce71b1c1f85e0148471",
-      "title": "datasette-leaflet 0.3",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-      "published": "2026-11-13T22:30:54+00:00",
-      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin , passing the host but not the full path to the page. Tags: leaflet , datasette , openstreetmap",
-      "source": "Simon Willison",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 47.23,
-      "tier": "Trending"
-    },
-    {
-      "id": "a5cbeaaf0b4df56fac42b355269cd9f2ddbe11ceac7d918be68f354b6e800abd",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "published": "2026-11-13T18:40:30+00:00",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research",
-        "Discovery"
-      ],
-      "score": 46.83,
-      "tier": "Trending"
-    },
-    {
-      "id": "754f24889ed9e00a6da88e40a1324be1247f4f90f8282ebd03dd4f917036942d",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "published": "2026-11-13T20:45:10+00:00",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "ChatGPT",
-        "Discovery"
-      ],
-      "score": 46.12,
-      "tier": "Trending"
-    },
-    {
-      "id": "bbcb79fadd39dd32e9c797027b308d5c2c485c48e2443c45c36a1c1cd441ee24",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "published": "2026-11-13T16:00:12+00:00",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "ChatGPT",
-        "Discovery"
-      ],
-      "score": 45.16,
-      "tier": "Trending"
-    },
-    {
-      "id": "1dcca899a4f1e51430e5807060013fe00d149f620f5af9113c50be068bc0f500",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published": "2026-11-13T15:58:00+00:00",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 45.13,
-      "tier": "Trending"
-    },
-    {
-      "id": "4d1482722545d06dd16949fb9f0d6a00279824eb0a4d10d62d4d06ff33dcea1a",
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "published": "2026-11-13T14:44:48+00:00",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 44.37,
-      "tier": "Trending"
-    },
-    {
-      "id": "728d91208d49dea51a0f8fd719247b69c0a73204ced98114633b521243907b32",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "published": "2026-11-13T16:26:32+00:00",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "source": "Ars Technica",
-      "source_tier": 1,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Research",
-        "Discovery"
-      ],
-      "score": 43.43,
-      "tier": "Trending"
-    },
-    {
-      "id": "ad83f8c3766bbc41d223258ee060fcca11ca2affb31d1c6dc1c6ed6c9735549b",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "published": "2026-11-13T12:52:19+00:00",
-      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 43.2,
-      "tier": "Trending"
-    },
-    {
-      "id": "4888df4a109a32c89d5e7bdb3bcd1d36df669b0e0a8113dabd68a4611ff31ec4",
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "published": "2026-11-13T19:08:57+00:00",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 43.12,
-      "tier": "Trending"
-    },
-    {
-      "id": "a17f152d477fce8ebb46c8456a53ac8f1de4def84155cf5cc855056eb7abb1fe",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "published": "2026-11-13T12:28:23+00:00",
-      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 42.95,
-      "tier": "Trending"
-    },
-    {
-      "id": "4815b0b06c4331032395d356fc0c0842095b4d32c35fbb0281a9e6f248164888",
-      "title": "What’s really at stake in the Jensen Huang saga",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "published": "2026-11-13T14:47:16+00:00",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 42.4,
-      "tier": "Trending"
-    },
-    {
-      "id": "0acc674430dfd202ca5a420ecc9e95b9e298e0fae8a88be07e7fd89edd12f879",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "published": "2026-11-13T14:00:00+00:00",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Discovery"
-      ],
-      "score": 41.9,
-      "tier": "Trending"
-    },
-    {
-      "id": "f984cb05effc04461b1f62fce9c0d66848f87d1d1e4fe0c108d4466e59f5a40a",
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "published": "2026-11-13T16:00:00+00:00",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 41.15,
-      "tier": "Trending"
-    },
-    {
-      "id": "b790ef257fc3d1721f2b1f333776088dd30c0c26fbcf944edd315686a965a3f6",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "published": "2026-11-13T12:00:00+00:00",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 40.65,
+      "score": 40.0,
       "tier": "Trending"
     },
     {
@@ -797,7 +598,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "score": 40.65,
+      "score": 40.0,
       "tier": "Trending"
     },
     {
@@ -2822,7 +2623,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "061338e668ed697490e5190ccd3e1fba28ac269698517daa2fcec5875990601f",
@@ -2839,7 +2640,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "d6b9f5e651b1891e950e0096b862ca9527c5eacf458b2804fa20b6d4b208ad61",
@@ -2856,7 +2657,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "6071f63e21f6425413eb63722b1604896ffdb702f04f5beb8c9ad701e7ae765e",
@@ -2873,7 +2674,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "dec620cb7225d2434a9b02e6e0197b1952a6412dcad780af2099d9910f2c9ee8",
@@ -2890,7 +2691,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "2fc54b690d7b20a2e14328388fc3694e3eecf9d62246b7618620635188f7c454",
@@ -2907,7 +2708,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "50d71cd52400f551c336b9ad5bff210544c56459b813f45adc29b8abfb63cfa4",
@@ -2924,7 +2725,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "0adf5bb2a473897d12526e4b9a8c88391e22c0769cbbe7208af0a1f61691cd5f",
@@ -2942,7 +2743,7 @@
         "Industry"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "833e9419a34f8836dc9d75020b228e7e76dd99c1c482fbba6af088c9a08dec28",
@@ -2960,7 +2761,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "eb674100bb687fff764326a192483a4161fa4fa5dc17727e3c5a9e490b0e4544",
@@ -2977,7 +2778,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "9de028fbe46cac8b155a7c08a35dfcf47f00596edbfe763bda6c0737c9cb02fb",
@@ -2994,7 +2795,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "3971cab2d7d4566fcc70a8f709ba6758e74d35ff8ace548876a5f6204fbc9bab",
@@ -3011,7 +2812,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Notable"
+      "tier": "Trending"
     },
     {
       "id": "6c85667bb456be979ea054b861dd8e0dfa0bf5249f02bd5eaf15388544cd6c9b",
@@ -8442,7 +8243,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "2362245b3edefabecbef9d39db502af199137214f98ff38f483488c1cf69796e",
@@ -8459,7 +8260,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "f56c542f57bec4122afe924025851fbed0811e259da643bd9fd664dc2f4009a5",
@@ -8476,7 +8277,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "66439e0ac0aedcb0a787347cb94b1e859df82e3fbad272013d52d534a9baa5ed",
@@ -8493,7 +8294,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "734a5335f405a5cb053de3b78b4ee2459a34c7e298bf26e571006921f28c1854",
@@ -8510,7 +8311,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "978a353b1d065a4cdc31b0330614a43f1acfeccb2e7a105960adaaad63d0226e",
@@ -8527,7 +8328,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "884aaaa8e6ec219852439e10ee1a54dba3288a6f93508404d196c16b337b501f",
@@ -8545,7 +8346,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "95384e9055c3b715bb5cf50e344dc32dff4803d52135f258f7d1c406a11eda3d",
@@ -8562,7 +8363,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "7bcd68b5d5cb7fb5256e9f26ec555c87e04efe5ddc828bfefc0945e15cc9895c",
@@ -8579,7 +8380,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "487938567ca08f298d45379cbab3d84cb5a305b152ec95dddebb74ce0e7efb17",
@@ -8596,7 +8397,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "047e7bac94f5b9df19e53e8b294f282da30094b77a1cae6e387998093e7ed7ef",
@@ -8614,7 +8415,7 @@
         "Research"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "86685a01860027dee20e60a45cb25bcdeb9ca725ffe4daa8835ba6c6e332ff59",
@@ -8631,7 +8432,7 @@
         "ChatGPT"
       ],
       "score": 40.0,
-      "tier": "Standard"
+      "tier": "Notable"
     },
     {
       "id": "22c2ff8bad8cfd85b49cffce90ee95128b4cc5c8b213a831da43e944b35eb804",
@@ -24593,11 +24394,11 @@
       "tier": "Standard"
     },
     {
-      "id": "cd9a227217501d9b400b62c3136e3f80120321b8e0a2cf4844114b7592f8a1ff",
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "published": "2026-11-13T11:45:00+00:00",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "id": "7f554d543072bd6350e72c4b28cbc5173d49c070676b9e5412050e7012e30743",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "published": "2026-11-14T13:00:00+00:00",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
       "source": "Wired AI",
       "source_tier": 2,
       "authority_weight": 28,
@@ -24606,7 +24407,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 38.5,
+      "score": 38.89,
       "tier": "Standard"
     },
     {
@@ -26650,6 +26451,197 @@
       "tier": "Standard"
     },
     {
+      "id": "75102a44dc7a210b1ce4abef39e13e0e621a0f3b87dd9c724c7752b7cd5cc8b7",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "published": "2026-11-14T11:00:00+00:00",
+      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 37.64,
+      "tier": "Standard"
+    },
+    {
+      "id": "9d694fa95af0cfaecf5267b73e7d6230221ffb467ae88ba047b8eeb9ff850562",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published": "2026-11-13T22:43:00+00:00",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Industry",
+        "Discovery"
+      ],
+      "score": 33.97,
+      "tier": "Standard"
+    },
+    {
+      "id": "96048276e5de0ccf8cbe79a81bae4da5ea80b981a5cdccf2d6da1abf2b97079e",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "published": "2026-11-13T23:49:11+00:00",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.65,
+      "tier": "Standard"
+    },
+    {
+      "id": "2053de078f05bd0a49e004a6f8c9f68c0154a94b7ea14d0b9adeb94b91e8f334",
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "published": "2026-11-13T23:02:45+00:00",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.17,
+      "tier": "Standard"
+    },
+    {
+      "id": "49f0b0840b1ef26af09f29c86adc67fccd4a404dbae10e2dbf51e8f46347b640",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "published": "2026-11-13T19:37:57+00:00",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Industry",
+        "Discovery"
+      ],
+      "score": 32.04,
+      "tier": "Standard"
+    },
+    {
+      "id": "a5cbeaaf0b4df56fac42b355269cd9f2ddbe11ceac7d918be68f354b6e800abd",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "published": "2026-11-13T18:40:30+00:00",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Research",
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "bbcb79fadd39dd32e9c797027b308d5c2c485c48e2443c45c36a1c1cd441ee24",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "published": "2026-11-13T16:00:12+00:00",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "ChatGPT",
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "1dcca899a4f1e51430e5807060013fe00d149f620f5af9113c50be068bc0f500",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-13T15:58:00+00:00",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "4d1482722545d06dd16949fb9f0d6a00279824eb0a4d10d62d4d06ff33dcea1a",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "published": "2026-11-13T14:44:48+00:00",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "ad83f8c3766bbc41d223258ee060fcca11ca2affb31d1c6dc1c6ed6c9735549b",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "published": "2026-11-13T12:52:19+00:00",
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "a17f152d477fce8ebb46c8456a53ac8f1de4def84155cf5cc855056eb7abb1fe",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "published": "2026-11-13T12:28:23+00:00",
+      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "source": "TechCrunch AI",
+      "source_tier": 1,
+      "authority_weight": 32,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 32.0,
+      "tier": "Standard"
+    },
+    {
       "id": "cbdc8f6b1c4c9f0159365aaa6154751fbacea3c49d2b59c223dc22751e9d216d",
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -26663,7 +26655,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 34.35,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26680,7 +26672,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 34.14,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26697,7 +26689,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 33.56,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26714,26 +26706,7 @@
       "categories": [
         "Discovery"
       ],
-      "score": 32.93,
-      "tier": "Standard"
-    },
-    {
-      "id": "aeee01f562824dca326f8c8d7b2ef7c85b22d93e47995594295d2e054659284e",
-      "title": "llm-gemini 0.37",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "published": "2026-11-12T22:55:19+00:00",
-      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Hydrogen $1.50 $0.075 $7.50 Carbon and Argon are the same price , and both are scheduled to double in price on December 1st. If they're the same price, why have two different models? Google says that Argon \"delivers Gemini 4 intelligence with faster responses and lower token spend per turn compared to Gemini 4 Carbon\" - so it may be priced the same, but it will use less tokens per task. Hydrogen, supposedly the cheap model, is currently only a 25% discount on its more capable peers. The Hydrogen price will make more sense after December 1st, when it will represent a 75% discount. It's still considerably more expensive than Claude Haiku 5.5 and GPT-6 Luna - they're both $0.10/$0.50, so Hydrogen is 15x that. I had Hydrogen generate some pelicans . Here's a full comparison grid showing the pelicans for all three members of the Gemini 4 family at their three supported effort levels: Considering how close they are in price, the difference in pelican quality for Hydrogen is quite stark. Here's how Google describe Hydrogen's intended position in their mix of models: In real-world software development, while teams rely on frontier models like Carbon and Argon for deep architectural judgment when designing systems or untangling subtle bugs, they still need a fast, disciplined execution model for writing code, running tests, and verifying changes. Hydrogen is built to stand on its own as a model for everyday work — or to pair with Carbon and Argon as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google , pelican-riding-a-bicycle , llm-pricing , ai , llms",
-      "source": "Simon Willison",
-      "source_tier": 2,
-      "authority_weight": 30,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Claude",
-        "Gemini",
-        "Discovery"
-      ],
-      "score": 32.48,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26751,7 +26724,7 @@
         "Gemini",
         "Discovery"
       ],
-      "score": 32.32,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26769,7 +26742,7 @@
         "Industry",
         "Discovery"
       ],
-      "score": 32.14,
+      "score": 32.0,
       "tier": "Standard"
     },
     {
@@ -26811,65 +26784,48 @@
       "tier": "Standard"
     },
     {
-      "id": "039c74dda2a3b52c28a0b12b00420fe402f71103895cc76c08c6a17f61353e96",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "published": "2026-11-12T17:17:58+00:00",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
+      "id": "a840b1604a3a5e19683a3aaca3bf6ae147c54af5ac713ce71b1c1f85e0148471",
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "published": "2026-11-13T22:30:54+00:00",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin , passing the host but not the full path to the page. Tags: leaflet , datasette , openstreetmap",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 32.0,
+      "score": 31.84,
       "tier": "Standard"
     },
     {
-      "id": "743bb9f48555c86ca2abe4582f0b27a044b1e6e5a1f735943f522ce1155aedc9",
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "published": "2026-11-12T17:00:52+00:00",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "source": "TechCrunch AI",
-      "source_tier": 1,
-      "authority_weight": 32,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 32.0,
-      "tier": "Standard"
-    },
-    {
-      "id": "a3e1afb4a33deb1bb631451a45d8fdfb08bde4f0c9c5460efe356e0b7f30baa6",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "published": "2026-11-12T21:55:32+00:00",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "id": "754f24889ed9e00a6da88e40a1324be1247f4f90f8282ebd03dd4f917036942d",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "published": "2026-11-13T20:45:10+00:00",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
       "source": "The Verge AI",
       "source_tier": 2,
       "authority_weight": 30,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
-        "Gemini",
+        "ChatGPT",
         "Discovery"
       ],
-      "score": 31.86,
+      "score": 30.74,
       "tier": "Standard"
     },
     {
-      "id": "a20d1e6a0e529bc1715f1ee0290468c4e3bee8fa17c4e8cf898e45d70bf9a9c0",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "published": "2026-11-12T19:42:40+00:00",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]",
-      "source": "The Verge AI",
-      "source_tier": 2,
+      "id": "728d91208d49dea51a0f8fd719247b69c0a73204ced98114633b521243907b32",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "published": "2026-11-13T16:26:32+00:00",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "source": "Ars Technica",
+      "source_tier": 1,
       "authority_weight": 30,
       "is_research": false,
       "is_aggregator": false,
@@ -26877,41 +26833,7 @@
         "Research",
         "Discovery"
       ],
-      "score": 30.47,
-      "tier": "Standard"
-    },
-    {
-      "id": "acd018f5e2fef62bf7b6d795033fcfaf5da20d96e2032de94d1f297d7226d6bf",
-      "title": "Silicon Valley Is Still Defending Jensen Huang",
-      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-      "published": "2026-11-12T22:29:43+00:00",
-      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 30.21,
-      "tier": "Standard"
-    },
-    {
-      "id": "a3cef106d94780825271c26e7930b8eda3e2d85b3b0d2750ccd3563e97dd9ed3",
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "published": "2026-11-12T22:14:41+00:00",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 30.06,
+      "score": 30.0,
       "tier": "Standard"
     },
     {
@@ -27241,17 +27163,89 @@
       "tier": "Standard"
     },
     {
-      "id": "648ab3e5a06f7ebf2df3816ebb776c9667531721f33fbde6e8e0d5c150095880",
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "published": "2026-11-12T18:06:54+00:00",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]",
+      "id": "4815b0b06c4331032395d356fc0c0842095b4d32c35fbb0281a9e6f248164888",
+      "title": "What’s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "published": "2026-11-13T14:47:16+00:00",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
       "source": "The Verge AI",
       "source_tier": 2,
       "authority_weight": 30,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "0acc674430dfd202ca5a420ecc9e95b9e298e0fae8a88be07e7fd89edd12f879",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "published": "2026-11-13T14:00:00+00:00",
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "b790ef257fc3d1721f2b1f333776088dd30c0c26fbcf944edd315686a965a3f6",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "published": "2026-11-13T12:00:00+00:00",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "a3e1afb4a33deb1bb631451a45d8fdfb08bde4f0c9c5460efe356e0b7f30baa6",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "published": "2026-11-12T21:55:32+00:00",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "source": "The Verge AI",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Gemini",
+        "Discovery"
+      ],
+      "score": 30.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "aeee01f562824dca326f8c8d7b2ef7c85b22d93e47995594295d2e054659284e",
+      "title": "llm-gemini 0.37",
+      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "published": "2026-11-12T22:55:19+00:00",
+      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Hydrogen $1.50 $0.075 $7.50 Carbon and Argon are the same price , and both are scheduled to double in price on December 1st. If they're the same price, why have two different models? Google says that Argon \"delivers Gemini 4 intelligence with faster responses and lower token spend per turn compared to Gemini 4 Carbon\" - so it may be priced the same, but it will use less tokens per task. Hydrogen, supposedly the cheap model, is currently only a 25% discount on its more capable peers. The Hydrogen price will make more sense after December 1st, when it will represent a 75% discount. It's still considerably more expensive than Claude Haiku 5.5 and GPT-6 Luna - they're both $0.10/$0.50, so Hydrogen is 15x that. I had Hydrogen generate some pelicans . Here's a full comparison grid showing the pelicans for all three members of the Gemini 4 family at their three supported effort levels: Considering how close they are in price, the difference in pelican quality for Hydrogen is quite stark. Here's how Google describe Hydrogen's intended position in their mix of models: In real-world software development, while teams rely on frontier models like Carbon and Argon for deep architectural judgment when designing systems or untangling subtle bugs, they still need a fast, disciplined execution model for writing code, running tests, and verifying changes. Hydrogen is built to stand on its own as a model for everyday work — or to pair with Carbon and Argon as the high-efficiency execution engine in multi-model workflows. Most notably, Hydrogen is the new free tier model, and is the model that will power AI features in Google Search. Tags: gemini , llm , google , pelican-riding-a-bicycle , llm-pricing , ai , llms",
+      "source": "Simon Willison",
+      "source_tier": 2,
+      "authority_weight": 30,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Claude",
+        "Gemini",
         "Discovery"
       ],
       "score": 30.0,
@@ -27704,57 +27698,88 @@
       "tier": "Standard"
     },
     {
-      "id": "449ed68b90056fbb63e7f9ab9f2181adbcba88a5b21fe5a8f6d53a04bba01e72",
-      "title": "October sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "published": "2026-11-03T05:28:59+00:00",
-      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
-      "source": "Simon Willison",
+      "id": "4888df4a109a32c89d5e7bdb3bcd1d36df669b0e0a8113dabd68a4611ff31ec4",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "published": "2026-11-13T19:08:57+00:00",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "source": "Wired AI",
       "source_tier": 2,
-      "authority_weight": 30,
+      "authority_weight": 28,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 30.0,
+      "score": 28.0,
       "tier": "Standard"
     },
     {
-      "id": "9d52bf97ae05725130debf62c26307f1348b41e58a4d68c72505f41357fbe3a8",
-      "title": "llm 0.37",
-      "url": "https://simonwillison.net/2026/Nov/2/llm/",
-      "published": "2026-11-02T23:49:30+00:00",
-      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM's support for embeddings now accepts that different binary content may have different content-type - necessary for models like Gemini Embedding 2 , which can embed text, audio, images, and video. A lot of open source maintainers complain about a flood of AI-assisted PRs. LLM is my project that has been most affected by this and, to be honest, I'm not finding it to be a problem. That's mainly because I have Opus 5.5 or GPT-6 Astra help me with triage to spot the most useful fixes! This release includes fixes from 12 authors - almost all AI-assisted - and the burden of reviewing them wasn't nearly as great as I expected. I really see them as bug reports with attached examples - sometimes I land them, sometimes I implement my own fix. So thanks to 0d00ciallo0721 , ac1982 , Allen Flux , Bian Yuhan , Bishop Kammeraad , Chen Yufeiyang , Christopher Krah , Ethan Stoner , Jiachen Xie , Olamide Faniyan , Sharat Chandra Sai Boddu , nosmile99 for helping out with (or spending tokens on) this release! Tags: open-source , llm , generative-ai , projects , ai , embeddings , llms , annotated-release-notes",
-      "source": "Simon Willison",
+      "id": "f984cb05effc04461b1f62fce9c0d66848f87d1d1e4fe0c108d4466e59f5a40a",
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "published": "2026-11-13T16:00:00+00:00",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "source": "Wired AI",
       "source_tier": 2,
-      "authority_weight": 30,
+      "authority_weight": 28,
       "is_research": false,
       "is_aggregator": false,
       "categories": [
-        "ChatGPT",
-        "Gemini",
-        "Open Source",
         "Discovery"
       ],
-      "score": 30.0,
+      "score": 28.0,
       "tier": "Standard"
     },
     {
-      "id": "87f760814f29f3f8dcf63e3948e71baba1aa38905bed1fb50a77642869e8ef3f",
-      "title": "Nvidia enters life without Jensen Huang",
-      "url": "https://therundownai.beehiiv.com/p/nvidia-enters-life-without-jensen-huang",
-      "published": "2026-11-13T10:00:00+00:00",
-      "summary": "PLUS: Build a shared tracker in Claude Sheets",
-      "source": "The Rundown AI",
+      "id": "cd9a227217501d9b400b62c3136e3f80120321b8e0a2cf4844114b7592f8a1ff",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "published": "2026-11-13T11:45:00+00:00",
+      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "source": "Wired AI",
       "source_tier": 2,
-      "authority_weight": 20,
+      "authority_weight": 28,
       "is_research": false,
-      "is_aggregator": true,
+      "is_aggregator": false,
       "categories": [
         "Discovery"
       ],
-      "score": 29.4,
+      "score": 28.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "acd018f5e2fef62bf7b6d795033fcfaf5da20d96e2032de94d1f297d7226d6bf",
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "published": "2026-11-12T22:29:43+00:00",
+      "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 28.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "a3cef106d94780825271c26e7930b8eda3e2d85b3b0d2750ccd3563e97dd9ed3",
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "published": "2026-11-12T22:14:41+00:00",
+      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+      "source": "Wired AI",
+      "source_tier": 2,
+      "authority_weight": 28,
+      "is_research": false,
+      "is_aggregator": false,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 28.0,
       "tier": "Standard"
     },
     {
@@ -27771,41 +27796,24 @@
       "categories": [
         "Discovery"
       ],
-      "score": 29.02,
-      "tier": "Standard"
-    },
-    {
-      "id": "54578bccfef6b2066476e79008f5f23291e6e4d44f538c1ff3f8d0d75e394f28",
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "published": "2026-11-12T18:59:58+00:00",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
-      "score": 28.03,
-      "tier": "Standard"
-    },
-    {
-      "id": "b4cad1d518811350ec56684a4b700d574cd20652d7c096be85a77c1d5edd16c9",
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "published": "2026-11-12T18:05:41+00:00",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "source": "Wired AI",
-      "source_tier": 2,
-      "authority_weight": 28,
-      "is_research": false,
-      "is_aggregator": false,
-      "categories": [
-        "Discovery"
-      ],
       "score": 28.0,
+      "tier": "Standard"
+    },
+    {
+      "id": "87f760814f29f3f8dcf63e3948e71baba1aa38905bed1fb50a77642869e8ef3f",
+      "title": "Nvidia enters life without Jensen Huang",
+      "url": "https://therundownai.beehiiv.com/p/nvidia-enters-life-without-jensen-huang",
+      "published": "2026-11-13T10:00:00+00:00",
+      "summary": "PLUS: Build a shared tracker in Claude Sheets",
+      "source": "The Rundown AI",
+      "source_tier": 2,
+      "authority_weight": 20,
+      "is_research": false,
+      "is_aggregator": true,
+      "categories": [
+        "Discovery"
+      ],
+      "score": 20.0,
       "tier": "Standard"
     },
     {
